@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translation LgColor="0.862,0.000,1.000" MdColor="1.000,0.8,0.350" FwColor="1.000,1.000,1.000" SmColor="1.000,1.000,1.000">
+  <text id="NEW_GAME" size="Lg">Neues Spiel</text>
+  <text id="CREDITS" size="Lg">Credits</text>
+  <text id="OPTIONS" size="Lg">Optionen</text>
+  <text id="LOAD" size="Lg">Laden</text>
+  <text id="SAVING" size="Lg">Speichern</text>
+  <text id="EXIT" size="Lg">Beenden</text>
+  <text id="MARKET" size="Lg">Markt</text>
+  <text id="REPORTS" size="Lg">Meldungen</text>
+  <text id="STAFF_MANAGEMENT" size="Lg">Angestellte</text>
+  <text id="BANK" size="Lg">Bank</text>
+  <text id="BUILDINGS" size="Lg">Gebäude</text>
+  <text id="MARKETING_AND_PUBLIC_RELATIONS" size="Lg">Marketing &amp; PR</text>
+  <text id="RESOLUTION" size="Lg">Auflösung</text>
+  <text id="FULLSCREEN" size="Lg">Vollbild</text>
+  <text id="ANTIALIASING" size="Lg">Antialiasing</text>
+  <text id="TEXTURE_QUALITY" size="Lg">Texturqualität</text>
+  <text id="SHADOWS_QUALITY" size="Lg">Schattenqualität</text>
+  <text id="VSYNC" size="Lg">V-Sync</text>
+  <text id="AUTOSAVE" size="Lg">Auto-Speichern</text>
+  <text id="SOUND" size="Lg">Sound</text>
+  <text id="LANGUAGE" size="Lg">Sprache</text>
+  <text id="BACK" size="Lg">Zurück</text>
+  <text id="APPLY" size="Lg">Anwenden</text>
+  <text id="RESUME" size="Lg">Weiter</text>
+  <text id="EXIT_GAME" size="Lg">Spiel beenden</text>
+  <text id="ON" size="Lg">An</text>
+  <text id="OFF" size="Lg">Aus</text>
+  <text id="VERY_LOW" size="Lg">Sehr niedrig</text>
+  <text id="LOW" size="Lg">Niedrig</text>
+  <text id="MEDIUM" size="Lg">Mittel</text>
+  <text id="HIGH" size="Lg">Hoch</text>
+  <text id="LOADING" size="Lg">Lade</text>
+  <text id="ADMINISTRATION_BUILDING" size="Lg">Administration</text>
+  <text id="AIRPORT" size="Lg">Flughafen</text>
+  <text id="ASSEMBLY_ROOM" size="Lg">Montagewerk</text>
+  <text id="ASTRONAUT_COMPLEX" size="Lg">Astronautenkomplex</text>
+  <text id="CEMETERY" size="Lg">Friedhof</text>
+  <text id="KIRCHNER_MONUMENT" size="Lg">Kirchner-Monument</text>
+  <text id="LAUNCH_FACILITY_B" size="Lg">Abschusseinrichtung (Groß)</text>
+  <text id="LAUNCH_FACILITY_M" size="Lg">Abschusseinrichtung (Mittel)</text>
+  <text id="LAUNCH_FACILITY_S" size="Lg">Abschusseinrichtung (Klein)</text>
+  <text id="MARS_PROGRAM" size="Lg">Marsprogramm</text>
+  <text id="MISSION_CONTROL" size="Lg">Mission Control</text>
+  <text id="MOON_PROGRAM" size="Lg">Mondprogramm</text>
+  <text id="MUSEUM" size="Lg">Museum</text>
+  <text id="NATIONAL_SPACE_AGENCY" size="Lg">Nationales Luft- und Raumfahrtbüro</text>
+  <text id="NEAR_EARTH_ORBIT_PROGRAM" size="Lg">Near-Earth Objects-Programm</text>
+  <text id="PORT" size="Lg">Hafen</text>
+  <text id="RESEARCH_DEVELOPMENT" size="Lg">Forschung und Entwicklung</text>
+  <text id="ROCKET_PROGRAM" size="Lg">Raketenprogramm</text>
+  <text id="SATELLITE_PROGRAM" size="Lg">Satellitenprogramm</text>
+  <text id="SEA_LAUNCH_FACILITY" size="Lg">Seeabschusseinrichtung</text>
+  <text id="SPACE_STATION_PROGRAM" size="Lg">Raumstationprogramm</text>
+  <text id="TOURIST_AGENCY" size="Lg">Weltraumtourismusprogramm</text>
+  <text id="TRACKING_STATION" size="Lg">Tracking-Station</text>
+  <text id="UNIVERSITY" size="Lg">Universität</text>
+  <text id="REQUEST_CONFERENCE" size="Lg">Konferenz anfordern</text>
+  <text id="NEXT" size="Lg">Weiter</text>
+  <text id="DELETE" size="Lg">Löschen</text>
+  <text id="LAUNCH_ORBITAL_MISSION" size="Lg">Starte Orbitalmission</text>
+  <text id="LAUNCH_MARS_MISSION" size="Lg">Starte Marsmission</text>
+  <text id="LAUNCH_MOON_MISSION" size="Lg">Starte Mondmission</text>
+  <text id="ENDING_TURN" size="Lg">Letzte Runde</text>
+  <text id="WORKERS" size="Lg">Arbeiter</text>
+  <text id="ENGINEERS" size="Lg">Ingenieure</text>
+  <text id="PROJECT_MANAGERS" size="Lg">Projektmanager</text>
+  <text id="ASTRONAUTS" size="Lg">Astronauten</text>
+  <text id="ADMINISTRATION" size="Lg">Administration</text>
+  <text id="SUMMARY" size="Lg">Zusammenfassung</text>
+  <text id="ACHIEVEMENTS" size="Lg">Erfolge</text>
+  <text id="TOTAL" size="Lg">Gesamt</text>
+  <text id="MONEY" size="Lg">Geld</text>
+  <text id="WORKER_LIST" size="Lg">Arbeiterliste</text>
+  <text id="HIRE" size="Lg">Anstellen</text>
+  <text id="NAME" size="Lg">Name</text>
+  <text id="COUNTRY" size="Lg">Land</text>
+  <text id="AGE" size="Lg">Alter</text>
+  <text id="SKILLS" size="Lg">Fähigkeiten</text>
+  <text id="SALARY_FIELD" size="Lg">Gehalt ($/Monat)</text>
+  <text id="FINANCE" size="Lg">Finanzen</text>
+  <text id="ENGINEERING" size="Lg">Ingenieurwesen</text>
+  <text id="MANAGEMENT" size="Lg">Management</text>
+  <text id="POLAND" size="Lg">Polen</text>
+  <text id="CHINA" size="Lg">China</text>
+  <text id="USA" size="Lg">USA</text>
+  <text id="GERMANY" size="Lg">Deutschland</text>
+  <text id="BRAZIL" size="Lg">Brasilien</text>
+  <text id="SEEALL" size="Lg">Alle</text>
+  <text id="FIRE" size="Lg">Entlassen</text>
+  <text id="WORKERS_COUNT" size="Lg">Arbeiterzahl:</text>
+  <text id="MONTH" size="Lg">Monat</text>
+  <text id="REMAINING_1_MONTH" size="Lg">1 Monat verbleibend</text>
+  <text id="REMAINING" size="Lg">Verbleibend: </text>
+  <text id="MONTHS" size="Lg">Monate</text>
+  <text id="GUI_NOT_READY" size="Lg">GUI nicht bereit</text>
+  <text id="BUILDING_WILL_BE_READY_IN" size="Lg">Gebäude bereit in </text>
+  <text id="JAN" size="Lg">Jan</text>
+  <text id="FEB" size="Lg">Feb</text>
+  <text id="MAR" size="Lg">Mär</text>
+  <text id="APR" size="Lg">Apr</text>
+  <text id="MAY" size="Lg">Mai</text>
+  <text id="JUN" size="Lg">Jun</text>
+  <text id="JUL" size="Lg">Jul</text>
+  <text id="AUG" size="Lg">Aug</text>
+  <text id="OCT" size="Lg">Okt</text>
+  <text id="SEP" size="Lg">Sep</text>
+  <text id="NOV" size="Lg">Nov</text>
+  <text id="DEC" size="Lg">Dez</text>
+  <text id="PROFITS_FROM_GADGETS" size="Lg">Profit durch Vorrichtungen</text>
+  <text id="FANS" size="Lg">Fans</text>
+  <text id="REPUTATION" size="Lg">Ruf</text>
+  <text id="RESUME_PROGRAM" size="Lg">Programm fortführen</text>
+  <text id="PAUSE_PROGRAM" size="Lg">Programm anhalten</text>
+  <text id="CANCEL_PROGRAM" size="Lg">Programm abbrechen</text>
+  <text id="PROJECT_MANAGER" size="Lg">Projektmanager</text>
+  <text id="MONTHLY_PROGRAM_COST" size="Lg">Monatliche Kosten</text>
+  <text id="CHANGE_PM" size="Lg">PM ändern</text>
+  <text id="FIRE_PM" size="Lg">PM entlassen</text>
+  <text id="PROGRAM_STATUS" size="Lg">Programmstatus</text>
+  <text id="NOT_ACTIVE" size="Lg">Inaktiv</text>
+  <text id="ACTIVE" size="Lg">Aktiv</text>
+  <text id="PAUSED" size="Lg">Pausiert</text>
+  <text id="NOT_ASSIGNED" size="Lg">Nicht zugewiesen</text>
+  <text id="PROPULSION_TECHNOLOGIES" size="Lg">Antriebstechnologie</text>
+  <text id="ROCKET_PROPULSION" size="Lg">Raketenantrieb</text>
+  <text id="JET_PROPULSION" size="Lg">Turbinenantrieb</text>
+  <text id="LASER_PROPULSION" size="Lg">Laserantrieb</text>
+  <text id="ELECTRIC_PROPULSION" size="Lg">Elektrischer Antrieb</text>
+  <text id="NUCLEAR_PROPULSION" size="Lg">Nuklearantrieb</text>
+  <text id="SOLAR_PROPULSION" size="Lg">Solarantrieb</text>
+  <text id="ELECTROMAGNETIC_PROPULSION" size="Lg">Electromagnetischer Antrieb</text>
+  <text id="ENTRY_TECHNOLOGIES" size="Lg">Anfangstechnologien</text>
+  <text id="SPACE_SUITS" size="Lg">Weltraumanzüge</text>
+  <text id="SPACEPLANES" size="Lg">Raumflugzeuge</text>
+  <text id="CAPSULES" size="Lg">Kapseln</text>
+  <text id="VTVL_VEHICLES" size="Lg">VTVL-Fahrzeuge</text>
+  <text id="ROCKETS" size="Lg">Raketen</text>
+  <text id="SATELLITES" size="Lg">Satelliten</text>
+  <text id="SPACE_STATIONS" size="Lg">Raumstationen</text>
+  <text id="LANDERS" size="Lg">Lander</text>
+  <text id="IMPACTORS" size="Lg">Impactor</text>
+  <text id="ROVERS" size="Lg">Rover</text>
+  <text id="SPACESHIPS" size="Lg">Raumschiffe</text>
+  <text id="PLANETARY_BASES" size="Lg">Planetenbasen</text>
+  <text id="STRATOSPHERIC_PLATFORMS" size="Lg">Stratosphären-Platformen</text>
+  <text id="SPACECRAFT_TECHNOLOGIES" size="Lg">Raumschifftechnologien</text>
+  <text id="LIFE_SUPPORT_SYSTEMS" size="Lg">Lebenserhaltungssysteme</text>
+  <text id="COMMUNICATION_SYSTEMS" size="Lg">Kommunikationssysteme</text>
+  <text id="OPTICAL_SYSTEMS" size="Lg">Optische Systeme</text>
+  <text id="RADAR_SYSTEMS" size="Lg">Radarsysteme</text>
+  <text id="THERMAL_PROTECTION_SYSTEMS" size="Lg">Hitzeschutzsysteme</text>
+  <text id="AWIONIC_SYSTEMS" size="Lg">Avioniksysteme</text>
+  <text id="POWER_SUPPLY_SYSTEMS" size="Lg">Stromversorgunssysteme</text>
+  <text id="THRUSTER_SYSTEMS" size="Lg">Antriebssysteme</text>
+  <text id="REMOTE_MANIPULATION_SYSTEMS" size="Lg">Fernwartungssysteme</text>
+  <text id="DOCKING_SYSTEMS" size="Lg">Docksysteme</text>
+  <text id="LANDING_SYSTEMS" size="Lg">Landesysteme</text>
+  <text id="SPACE_TOOLS" size="Lg">Raumwerkzeuge</text>
+  <text id="GENERIC_TECHNOLOGIES" size="Lg">Allgemeine Technologien</text>
+  <text id="MATERIALS" size="Lg">Materialien</text>
+  <text id="PSYCHOLOGY" size="Lg">Psychologie</text>
+  <text id="BIOLOGY" size="Lg">Biologie</text>
+  <text id="AERONAUTICS" size="Lg">Luftfahrt</text>
+  <text id="ECONOMICS" size="Lg">Wirtschaft</text>
+  <text id="MARKETS" size="Lg">Märkte</text>
+  <text id="GOVERNMENT" size="Lg">Regierung</text>
+  <text id="PUBLIC_RELATIONS" size="Lg">Öffentliche Beziehungen</text>
+  <text id="RECRUITING" size="Lg">Rekrutierung</text>
+  <text id="ESPIONAGE" size="Lg">Spionage</text>
+  <text id="RESEARCH_TECHNOLOGY" size="Lg">Forschungstechnologie</text>
+  <text id="MONTHLY_RESEARCH_COST" size="Lg">Monatliche Forschungskosten</text>
+  <text id="TECHNOLOGY_COST" size="Lg">Technologiekosten</text>
+  <text id="NOT_AVAILABLE" size="Lg">Nicht verfügbar</text>
+  <text id="ENGINEERS_ASSIGNED_COUNT" size="Lg">Zugewiesene Ingenieure</text>
+  <text id="END" size="Lg">BEENDEN</text>
+  <text id="TURN" size="Lg">Runde</text>
+  <text id="CREATING_VEHICLE" size="Lg">Fahrzeug erstellen</text>
+  <text id="CHOOSE_VEHICLE" size="Lg">Fahrzeug wählen</text>
+  <text id="VEHICLE_TITLE00" size="Lg">Aeroplan</text>
+  <text id="VEHICLE_DESCRIPTION00" size="Lg">Aeroplan</text>
+  <text id="VEHICLE_TITLE01" size="Lg">Aeroplan1</text>
+  <text id="VEHICLE_DESCRIPTION01" size="Lg">Aeroplan1</text>
+  <text id="VEHICLE_TITLE02" size="Lg">Aeroplan2</text>
+  <text id="VEHICLE_DESCRIPTION02" size="Lg">Aeroplan2</text>
+  <text id="VEHICLE_TITLE03" size="Lg">Aeroplan3</text>
+  <text id="VEHICLE_DESCRIPTION03" size="Lg">Aeroplan3</text>
+  <text id="VEHICLE_TITLE04" size="Lg">Aeroplan4</text>
+  <text id="VEHICLE_DESCRIPTION04" size="Lg">Aeroplan4</text>
+  <text id="VEHICLE_TITLE05" size="Lg">Aeroplan5</text>
+  <text id="VEHICLE_DESCRIPTION05" size="Lg">Aeroplan5</text>
+  <text id="VEHICLE_TITLE06" size="Lg">Aeroplan6</text>
+  <text id="VEHICLE_DESCRIPTION06" size="Lg">Aeroplan6</text>
+  <text id="VEHICLE_TITLE07" size="Lg">Aeroplan7</text>
+  <text id="VEHICLE_DESCRIPTION07" size="Lg">Aeroplan7</text>
+  <text id="VEHICLE_TITLE08" size="Lg">Aeroplan8</text>
+  <text id="VEHICLE_DESCRIPTION08" size="Lg">Aeroplan8</text>
+  <text id="CHOOSE_MACHINE_FRAME" size="Lg">Choose machine frame</text>
+  <text id="METAL_TITLE00" size="Lg">Metal0</text>
+  <text id="METAL_DESCRIPTION00" size="Lg">Metal0</text>
+  <text id="METAL_TITLE01" size="Lg">Metal1</text>
+  <text id="METAL_DESCRIPTION01" size="Lg">Metal1</text>
+  <text id="METAL_TITLE02" size="Lg">Metal2</text>
+  <text id="METAL_DESCRIPTION02" size="Lg">Metal2</text>
+  <text id="METAL_TITLE03" size="Lg">Metal3</text>
+  <text id="METAL_DESCRIPTION03" size="Lg">Metal3</text>
+  <text id="METAL_TITLE04" size="Lg">Metal4</text>
+  <text id="METAL_DESCRIPTION04" size="Lg">Metal4</text>
+  <text id="METAL_TITLE05" size="Lg">Metal5</text>
+  <text id="METAL_DESCRIPTION05" size="Lg">Metal5</text>
+  <text id="METAL_TITLE06" size="Lg">Metal6</text>
+  <text id="METAL_DESCRIPTION06" size="Lg">Metal6</text>
+  <text id="METAL_TITLE07" size="Lg">Metal7</text>
+  <text id="METAL_DESCRIPTION07" size="Lg">Metal7</text>
+  <text id="METAL_TITLE08" size="Lg">Metal8</text>
+  <text id="METAL_DESCRIPTION08" size="Lg">Metal8</text>
+  <text id="METAL_TITLE09" size="Lg">Metal9</text>
+  <text id="METAL_DESCRIPTION09" size="Lg">Metal9</text>
+  <text id="METAL_TITLE10" size="Lg">Metal10</text>
+  <text id="METAL_DESCRIPTION10" size="Lg">Metal10</text>
+  <text id="METAL_TITLE11" size="Lg">Metal11</text>
+  <text id="METAL_DESCRIPTION11" size="Lg">Metal11</text>
+  <text id="METAL_TITLE12" size="Lg">Metal0</text>
+  <text id="METAL_DESCRIPTION12" size="Lg">Metal12</text>
+  <text id="METAL_TITLE13" size="Lg">Metal0</text>
+  <text id="METAL_DESCRIPTION13" size="Lg">Metal13</text>
+  <text id="METAL_TITLE14" size="Lg">Metal0</text>
+  <text id="METAL_DESCRIPTION14" size="Lg">Metal14</text>
+  <text id="CHOOSEN_VEHICLE" size="Lg">Choosen vehicle</text>
+  <text id="TOTAL_WEIGHT" size="Lg">Total wage</text>
+  <text id="MAX_WORK_TEMP" size="Lg">Max. working temp.</text>
+  <text id="MECHANICAL_STRENGTH" size="Lg">Mechanical strength</text>
+  <text id="FINAL_PRICE" size="Lg">Final price</text>
+  <text id="COMPANY_NAME" size="Lg">Company name</text>
+  <text id="WRITE_YOUR_NAME" size="Lg">Write your name</text>
+  <text id="WRITE_YOUR_COMPANY" size="Lg">Write your company</text>
+  <text id="START_GAME" size="Lg">Start Game</text>
+  <text id="YOUR_COUNTRY" size="Lg">Your country</text>
+  <text id="ENGLAND" size="Lg">England</text>
+  <text id="RUSSIA" size="Lg">Russia</text>
+  <text id="CHOOSE_AIRFRAME" size="Lg">Wybierz szkielet</text>
+  <text id="CHOOSE_PLATING" size="Lg">Wybierz poszycie</text>
+  <text id="CHOOSE_WINGS" size="Lg">Wybierz skrzydła</text>
+  <text id="CHOOSE_HEAT_SHIELD" size="Lg">Wybierz ochronę termiczną</text>
+  <text id="CHOOSE_MAIN_ENGINE" size="Lg">Wybierz silniki główne</text>
+  <text id="CHOOSE_AUXILIARY_ENGINE" size="Lg">Wybierz silniki pomocnicze</text>
+  <text id="CHOOSE_RCS_SYSTEM" size="Lg">Wybierz system RCS</text>
+  <text id="CHOOSE_CHASSIS" size="Lg">Wybierz podwozie</text>
+  <text id="CHOOSE_MAIN_POWER_SUPPLY" size="Lg">Wybierz układ zasilania głównego</text>
+  <text id="CHOOSE_AUXILIARY_POWER_SYSTEM" size="Lg">Wybierz układ zasilania pomocniczego</text>
+  <text id="CHOOSE_COCKPIT" size="Lg">Wybierz kokpit</text>
+  <text id="CHOOSE_TELECOMMUNICATIONS_SYSTEM" size="Lg">Wybierz system telekomunikacyjny</text>
+  <text id="CHOOSE_LIFE_SUPPORT_SYSTEM" size="Lg">Wybierz system podtrzymywania życia</text>
+  <text id="CHOOSE_RESCUE_SYSTEM" size="Lg">Wybierz system ratunkowy</text>
+  <text id="CHOOSE_OPTIONAL_PARTS" size="Lg">Wybierz akcesoria opcjonalne</text>
+  <text id="STEP" size="Lg">Step</text>
+  <text id="JANUARY" size="Lg">January</text>
+  <text id="FEBRUARY" size="Lg">February</text>
+  <text id="MARCH" size="Lg">March</text>
+  <text id="APRIL" size="Lg">April</text>
+  <text id="JUNE" size="Lg">June</text>
+  <text id="JULY" size="Lg">July</text>
+  <text id="AUGUST" size="Lg">August</text>
+  <text id="SEPTEMBER" size="Lg">September</text>
+  <text id="OCTOBER" size="Lg">October</text>
+  <text id="NOVEMBER" size="Lg">November</text>
+  <text id="DECEMBER" size="Lg">December</text>
+  <text id="SUPPORTUS" size="Lg">Support Us:</text>
+  <text id="MISSION" size="Lg">Mission</text>
+  <text id="VERSION" size="Lg">Version:</text>
+  <text id="FROM" size="Lg">From:</text>
+  <text id="TOPIC" size="Lg">Topic:</text>
+  <text id="VEHICLE_BUILDING" size="Lg">Vehicle Building</text>
+  <text id="IN_MEMORIAM" size="Lg">In memoriam</text>
+  <text id="TITLE_MEMORIAM" size="Lg">born - July 1918 in Opole, Poland,
+	died - 6 March 2008 in California, United States of America</text>
+  <text id="TEXT_MEMORIAM" size="Lg">Werner Ryszard Kirchner was a Polish pilot and a chemist, who participated in the Apollo program. Born in 1918 in Opole (Poland), he fought as a fighter pilot during the Second World War, achieving three Crosses of Valour decorations.
+
+	After the war, he did a PhD in chemistry and next he moved to United States. During the 50s and 60s he worked on rocket fuels for several military missiles. In the second part of 60s, he also worked on the engine of the Lunar Module from Apollo program. In the 70s he participated in some scientific eert panels, also related the space shuttle.
+
+	He passed in 2008 in california.</text>
+  <text id="IN_CONSTRUCTION" size="Lg">In construction</text>
+  <text id="GUI_IN_CONSTRUCTION" size="Lg">The graphical user interface is not implemented yet.</text>
+  <text id="BUILDING_IN_CONSTRUCTION" size="Lg"> building is not ready yet.
+	Please wait till construction is finished.</text>
+  <text id="TUTORIAL00" size="Lg">Welcome in the game Race To Mars. My name is Albert Solka and I’m a business advisor. I’ve been working in New Space industry for many years, so I know few tricks. Would you like to use my services?</text>
+  <text id="TUTORIAL01" size="Lg">Yes, I want to use the tutorial.</text>
+  <text id="TUTORIAL02" size="Lg">No, turn off the tutorial.</text>
+  <text id="TUTORIAL03" size="Lg">Here are your first steps in the game. Write down your name, name of the company and the country you would like to run it in.</text>
+  <text id="TUTORIAL04" size="Lg">Now you see the main screen of the game. Here you will be hiring employees, developing space technologies and building your rockets.</text>
+  <text id="TUTORIAL05" size="Lg">Here you can read your e-mails.</text>
+  <text id="TUTORIAL06" size="Lg">Here you can always check the date, your account balance and amount of Prestige points.</text>
+  <text id="TUTORIAL07" size="Lg">Prestige points show how your company is perceived in the industry and in media – you company’s reputation will change during the whole game.</text>
+  <text id="TUTORIAL08" size="Lg">Prestige is a very important indicator in the game. You will find out how many aspects depend on Prestige level and how many elements can influence it.</text>
+  <text id="TUTORIAL09" size="Lg">You have a good perspective on all your buildings from this point. Use mouse to move the camera.</text>
+  <text id="TUTORIAL10" size="Lg">Administration building is the basic building where you will decide on the strategy of your company. Left-click on the building to enter it.</text>
+  <text id="TUTORIAL11" size="Lg">Here you will manage few matters of the company, like Buildings.</text>
+  <text id="TUTORIAL12" size="Lg">First building you will need is Research+Development.</text>
+  <text id="TUTORIAL13" size="Lg">When having it you will be able to develop technologies, which you will later use in constructions at Assembly building.</text>
+  <text id="TUTORIAL14" size="Lg">Buildings for Programs unlock development of specific technologies at R+D.</text>
+  <text id="TUTORIAL15" size="Lg">Constructing some of buildings depends on constructing others.</text>
+  <text id="TUTORIAL16" size="Lg">Try to plan reasonably the order of constructions. Remember that owning buildings and conducting work there always brings costs.</text>
+  <text id="TUTORIAL17" size="Lg">My advice: start with building Research+Development and Vehicle Assembly. Read descriptions of all buildings to know all dependences.</text>
+  <text id="TUTORIAL18" size="Lg">At Administration building you can manage employees.</text>
+  <text id="TUTORIAL19" size="Lg">Here you can hire (and fire) engineers and Project Managers.</text>
+  <text id="TUTORIAL20" size="Lg">Engineers and Projects Managers have skills and experience developed on different levels. Those levels influence time needed for projects and its costs, as well as employees’ payrolls.</text>
+  <text id="TUTORIAL21" size="Lg">Employees will improve their skills and build experience during the game.</text>
+  <text id="TUTORIAL22" size="Lg">It is best to hire employees when you already own some buildings and can assign them to tasks.</text>
+  <text id="TUTORIAL23" size="Lg">Check out the option of hiring/firing employees and other functions.</text>
+  <text id="TUTORIAL26" size="Lg">At Administration building you can also take marketing &amp; PR actions. At the moment you can organize a press conference here. You will be able to do that twice a year.</text>
+  <text id="TUTORIAL27" size="Lg">You can also go through diverse reports. Come back here in the next turns.</text>
+  <text id="TUTORIAL30" size="Lg">When you finish your actions for this month, end turn by left-clicking on the button. One turn equals one month.</text>
+  <text id="TUTORIAL31" size="Lg">After ending each turn a window with month summary appears. Now plan your next steps.</text>
+  <text id="TUTORIAL32" size="Lg">When you point on the building you can find out how many more months (turns) does it need to get finished.</text>
+  <text id="TUTORIAL33" size="Lg">In the beginning of each press conference a list of topics will be presented to you. Three of them are chosen in advance, the rest 2 or 3 you can choose by yourself. In the future you will be able to choose from 6 propositions.</text>
+  <text id="TUTORIAL34" size="Lg">Confirm chosen topics by left-clicking on the arrow at the bottom of the window.</text>
+  <text id="TUTORIAL35" size="Lg">Each conference has 4 or 5 questions.</text>
+  <text id="TUTORIAL36" size="Lg">The answers will appear after clicking with mouse. Before you do that read the question carefully. Time of your answer will be measured.</text>
+  <text id="TUTORIAL37" size="Lg">The time for answer is unlimited but the quicker you answer the more interested are the journalists.</text>
+  <text id="TUTORIAL38" size="Lg">If you wait more than 60 seconds, the journalists will lose interest.</text>
+  <text id="TUTORIAL39" size="Lg">Time left for the current question is marked yellow.</text>
+  <text id="TUTORIAL40" size="Lg">Time left for the current question is marked blue.</text>
+  <text id="TUTORIAL41" size="Lg">Depending on how interested you kept the journalists, you may gain some additional Prestige points at the end of the conference.</text>
+  <text id="TUTORIAL42" size="Lg">You can chose the answer in 2 ways: By clicking on the text of the answer you mark it and then confirm by clicking on the glowing arrow on the right. By clicking directly on the arrow at first you immediately confirm the answer.</text>
+  <text id="TUTORIAL43" size="Lg">Now choose the answer.</text>
+  <text id="TUTORIAL44" size="Lg">By answering each question you gain or lose Prestige points which are marked with a star.</text>
+  <text id="TUTORIAL45" size="Lg">Each answer has one or few of those features: Eco, Friendliness, Power and Trust, which are marked with icons – point the icon to see its meaning.</text>
+  <text id="TUTORIAL46" size="Lg">Green arrows indicate positive reception, red arrows indicate negative reception.</text>
+  <text id="TUTORIAL47" size="Lg">Those features are transferred to Prestige points, so you will see only this score.</text>
+  <text id="TUTORIAL48" size="Lg">Sometimes features balance each other out (some are positive, some negative), so you can get 0 Prestige points.</text>
+  <text id="TUTORIAL49" size="Lg">Left-click on the window to continue and answer the rest of the questions. I’ll meet you at the conference summary.</text>
+  <text id="TUTORIAL50" size="Lg">At the end of each press conference you will be informed by how many point your Prestige has changed.</text>
+  <text id="TUTORIAL54" size="Lg">Random events appear from time to time at the beginning of the turn. They can have diverse influence on your company.</text>
+  <text id="TUTORIAL55" size="Lg">Some random events include a choice to make. Chose an answer by left-clicking on it.</text>
+  <text id="TUTORIAL56" size="Lg">From time to time scientific conferences are organized. By participating you can gain some Prestige points.</text>
+  <text id="TUTORIAL57" size="Lg">Decide whether you want to participate by left-clicking on the answer.</text>
+  <text id="TUTORIAL58" size="Lg">You will be informed about the result of a conference after it’s finished. You will be notified via e-mail.</text>
+  <text id="TUTORIAL59" size="Lg">You can also contact the bank.</text>
+  <text id="TUTORIAL60" size="Lg">At the bank you can take a loan or put money to a deposit. </text>
+  <text id="TUTORIAL61" size="Lg">Credit rate and rate of interest depend on the amount of months.</text>
+  <text id="TUTORIAL62" size="Lg">After you deposit your money you can withdraw them at any time before deadline but you will lose your interest.</text>
+  <text id="TUTORIAL63" size="Lg">You can take only one loan and set one deposit at a time.</text>
+  <text id="TUTORIAL64" size="Lg">At the University you can train Project Managers, you have hired.</text>
+  <text id="TUTORIAL65" size="Lg">Project Managers can improve 3 kinds of skills: Engineering, Management and Finances.</text>
+  <text id="TUTORIAL66" size="Lg">During education they can increase their skill levels, which will help with lowering costs and time of researches and increasing reliability levels of technologies.</text>
+  <text id="TUTORIAL67" size="Lg">There can be up to 5 Project Managers at each department at the same time.</text>
+  <text id="TUTORIAL68" size="Lg">Project Manager can study in 1, 2 or 3 fields at the same time.</text>
+  <text id="TUTORIAL69" size="Lg">Time and cost of the education depend on skill levels of the Project Manager.</text>
+  <text id="TUTORIAL70" size="Lg">You can stop PM’s education at any time, but you won’t be able to resume it and you will lose money you have invested.</text>
+  <text id="TUTORIAL71" size="Lg">When education for specific PM on specific level finishes, a massage will be send to you.</text>
+  <text id="TUTORIAL73" size="Lg">Po wybraniu wszystkich elementów konstrukcji musisz przydzielić odpowiednią ilość inżynierów do projektu. Oszacuj jaka ilość będzie optymalna.</text>
+  <text id="FINANCIAL_ADVISOR" size="Lg">Financial Advisor</text>
+  <text id="PRESS_CONFERENCE" size="Lg">Press Conference</text>
+  <text id="INTEREST" size="Lg">Interest</text>
+  <text id="ANSWERS" size="Lg">Answers</text>
+  <text id="QUESTIONS" size="Lg">Question</text>
+  <text id="TOPICS_OF_THE_CONFERENCE" size="Lg">Topics of the conference</text>
+  <text id="WARNING" size="Lg">Warning!</text>
+  <text id="CHOOSE_2_OTHER_TOPICS" size="Lg">Choose two other topics</text>
+  <text id="CHOOSE_3_OTHER_TOPICS" size="Lg">Choose three other topics</text>
+  <text id="YOUR_PRESTIGE_CHANGED_BY" size="Lg">Your prestige changed by</text>
+  <text id="CONFERENCE_SUMMARY" size="Lg">Conference summary</text>
+  <text id="PRESTIGE" size="Lg">Prestige</text>
+  <text id="ECOLOGY" size="Lg">Ecology</text>
+  <text id="FRIENDLINESS" size="Lg">Friendliness</text>
+  <text id="POWER" size="Lg">Power</text>
+  <text id="TRUST" size="Lg">Trust</text>
+  <text id="CLICK_TO_SHOW_ANSWERS" size="Lg">Click to show answers</text>
+  <text id="RESEARCH" size="Lg">Research</text>
+  <text id="PAUSE" size="Lg">Pause</text>
+  <text id="CANCEL" size="Lg">Cancel</text>
+  <text id="STATUS" size="Lg">Status</text>
+  <text id="RESEARCHING" size="Lg">In progress</text>
+  <text id="NONE" size="Lg">None</text>
+  <text id="FINISHED" size="Lg">Finished</text>
+  <text id="MANHOUR" size="Lg">Manhours</text>
+  <text id="CHANGE" size="Lg">Change</text>
+  <text id="BUILD" size="Lg">BUILD</text>
+  <text id="ADMINISTRATION_BUILDING_DESCRIPTION" size="Lg">Administration building is a heart of a company. Many affairs take place here: staff management, various reports, building management, contacting bank, PR &amp; marketing actions, as well as buying components, equipment, licenses and servies.</text>
+  <text id="AIRPORT_DESCRIPTION" size="Lg">Airfield serves for landing of space shuttles and bigger multiuse vehicles, it is necessary for missions involving them.</text>
+  <text id="ASSEMBLY_ROOM_DESCRIPTION" size="Lg">Vehicle Assembly building is a place where most vehicles (and other products) are being completed. It is necessary for starting any constructions.</text>
+  <text id="ASTRONAUT_COMPLEX_DESCRIPTION" size="Lg">Astronaut Complex is important for creating qualified space staff. There are many facilities for astronauts: medical center, training complex, NEEMO, pool and test pad.</text>
+  <text id="CEMETERY_DESCRIPTION" size="Lg">At Cemetery it is possible to visit graves of Astronauts lost in space accidents and pay proper condolences.</text>
+  <text id="LAUNCH_FACILITY_B_DESCRIPTION" size="Lg">Big Launch facility allows to launch your own rockets into space. This facility will manage only big rockets.</text>
+  <text id="LAUNCH_FACILITY_M_DESCRIPTION" size="Lg">Medium Launch facility allows to launch your own rockets into space. This facility will manage only medium-sized rockets.</text>
+  <text id="LAUNCH_FACILITY_S_DESCRIPTION" size="Lg">Small Launch facility allows to launch your own rockets into space. This facility will manage only small rockets.</text>
+  <text id="MARS_PROGRAM_DESCRIPTION" size="Lg">Building Mars Program unlocks development of Mars systems at Research &amp; Development building, spacecraft lander for Mars in latter technologies, then spacebase and finally a colony on Mars.</text>
+  <text id="MISSION_CONTROL_DESCRIPTION" size="Lg">Mission Control building is necessary for planning and coordinating current missions. It is possible to control missions there, track their progress and make vital decisions.</text>
+  <text id="MOON_PROGRAM_DESCRIPTION" size="Lg">Building Moon Program unlocks development of Moon systems at Research+Development building, working on bigger satellites, lander spacecraft and spacebase on Moon.</text>
+  <text id="MUSEUM_DESCRIPTION" size="Lg">Museum is full of data. Old mission reports are available there, as well as Space Encyclopedia. It is also available for tourists, who can enter after purchasing a ticket.</text>
+  <text id="NATIONAL_SPACE_AGENCY_DESCRIPTION" size="Lg">At National Space and Air Office it is possible to get new contracts by choosing offers and participating in competitions. Comercial contracts are available here as well because NSAAO is an intermediary for those. There are also statistics of competitive companies.</text>
+  <text id="NEAR_EARTH_ORBIT_PROGRAM_DESCRIPTION" size="Lg">Building NEO Program unlocks development of NEO technologies at Research &amp; Development building. It allows to conduct missions to objects that enter the Earth’s neighborhood, like comets and asteroids.</text>
+  <text id="RESEARCH_DEVELOPMENT_DESCRIPTION" size="Lg">Research &amp; Development building is crucial for all programs and missions. All hard and soft technologies are developed there.</text>
+  <text id="ROCKET_PROGRAM_DESCRIPTION" size="Lg">Rocket Program building is necessary for starting work on researching rocket technologies and then constructing your own rockets.</text>
+  <text id="SATELLITE_PROGRAM_DESCRIPTION" size="Lg">Building Satellite Program unlocks development of satellites at Research+Development building, their production at Vehicle Assembly Building and coordinating missions with satellites.</text>
+  <text id="SEA_LAUNCH_FACILITY_DESCRIPTION" size="Lg">Sea Launch facility allows to launch your own rockets into space. This facility will manage all sized of rockets, therefore it is the best one.</text>
+  <text id="SPACE_STATION_PROGRAM_DESCRIPTION" size="Lg">Building Space Station Program unlocks development of Space Station technologies at Research+Development building. At the beginning it allows to put small module in orbit, then more of them to finally construct big space station.</text>
+  <text id="TOURIST_AGENCY_DESCRIPTION" size="Lg">Building Space Tourism Program unlocks corresponding technologies at Research+Development building and then allows to organize tourist space trips. It also enables to establish tourist agency offices around the globe.</text>
+  <text id="TRACKING_STATION_DESCRIPTION" size="Lg">Tracking Station allows to overview all current missions, control what kind of objects are in space, how many of them and on what coordinates.</text>
+  <text id="UNIVERSITY_DESCRIPTION" size="Lg">At University education for Project Managers is available. For an appropriate fee they can gain new levels of skills.</text>
+  <text id="BANKRUPT" size="Lg">Bankrupt</text>
+  <text id="BANKRUPT_MESSAGE" size="Lg">Your company goes bankrupt!</text>
+  <text id="BACK_TO_MENU" size="Lg">Back to menu</text>
+  <text id="CONFERENCE_DESCRIPTION00" size="Lg">Mark topics, you whould like to discuss during conference. </text>
+  <text id="CONFERENCE_DESCRIPTION01" size="Lg">Read the question and then left-click to see the answers.</text>
+  <text id="CONFERENCE_DESCRIPTION02" size="Lg">Choose the answer by clicking on its text and confirming with the arrow or by clicking directly on the arrow.</text>
+  <text id="CONFERENCE_DESCRIPTION03" size="Lg">Click to continue to the next question.</text>
+  <text id="ACCOUNT_BALANCE" size="Lg">Account balance:</text>
+  <text id="LOAN" size="Lg">Loan</text>
+  <text id="CURRENT_LOAN_AMOUNT" size="Lg">Current loan amount:</text>
+  <text id="RATE_OF_INTEREST" size="Lg">Rate of interest:</text>
+  <text id="TIME_LEFT" size="Lg">Time left:</text>
+  <text id="TAKE_A_LOAN" size="Lg">Take a loan</text>
+  <text id="PAYMENT_IN_INSTALMENTS?" size="Lg">Payment in instalments?</text>
+  <text id="PAYMENT_WITHIN" size="Lg">Payment within:</text>
+  <text id="WORKING_CAPITAL_LOAN" size="Lg">Working capital loan?</text>
+  <text id="TERMINATE_DEPOSIT" size="Lg">Terminate deposit</text>
+  <text id="AMOUNT_IN_DEPOSIT" size="Lg">Amount in deposit:</text>
+  <text id="AMOUNT_IN_DEPOSTI_PROFIT" size="Lg">Amount in deposit + profit:</text>
+  <text id="WITHDRAW_MONEY" size="Lg">Withdraw money</text>
+  <text id="PLACE_A_DEPOSIT" size="Lg">Place a deposit</text>
+  <text id="DURATION" size="Lg">Duration:</text>
+  <text id="PROFIT_FROM_DEPOSIT" size="Lg">Profit from deposit:</text>
+  <text id="DEPOSIT_MONEY" size="Lg">Deposit money</text>
+  <text id="EXPENSES" size="Lg">Expanses</text>
+  <text id="EMPLOYEES_MAINTENANCE" size="Lg">Employees maintenance</text>
+  <text id="BUILDING_MAINTENANCE" size="Lg">Building maintenance</text>
+  <text id="SUPPLIES" size="Lg">Supplies</text>
+  <text id="RUNNING_PROJECTS" size="Lg">Running projects</text>
+  <text id="MARKET_SHOPPING" size="Lg">Market shopping</text>
+  <text id="REPAIRS" size="Lg">Repairs</text>
+  <text id="FINANCIAL_SUPPORT" size="Lg">Financial support</text>
+  <text id="MODERNIZATIONS" size="Lg">Modernization</text>
+  <text id="UNEXPECTED_EXPENSES" size="Lg">Unexpected expanses</text>
+  <text id="MARKETING" size="Lg">Marketing</text>
+  <text id="STAFF_DEVELOPMENT" size="Lg">Staff development</text>
+  <text id="CONSTRUCTION_OF_BUILDINGS" size="Lg">Construction of buildings</text>
+  <text id="RESEARCHES" size="Lg">Researches</text>
+  <text id="ADMINISTRATIVE_COSTS" size="Lg">Administrative costs</text>
+  <text id="TAXES" size="Lg">Taxes</text>
+  <text id="REVENUE" size="Lg">Revenue</text>
+  <text id="PRIVATE_CONTRACTS" size="Lg">Private contracts</text>
+  <text id="SPACE_TOURISM" size="Lg">Space tourism</text>
+  <text id="CONTRACTS_WITH_NSAAO" size="Lg">Constracts with NSAAO</text>
+  <text id="CONTRACTS_WITH_ARMY" size="Lg">Contracts with Army</text>
+  <text id="OTHER" size="Lg">Other</text>
+  <text id="AWARDS" size="Lg">Awards</text>
+  <text id="PROGRAMS_INCOME" size="Lg">Programs income</text>
+  <text id="POINTS_OF_PRESTIGE" size="Lg">Points of Prestige</text>
+  <text id="RUNNING_PROGRAMS" size="Lg">Running programs</text>
+  <text id="STARTED_RESEARCHES" size="Lg">Started researches</text>
+  <text id="FINISHED_BUILDINGS" size="Lg">Finished buildings</text>
+  <text id="NUMBER_OF_EMPLOYEES" size="Lg">Number of employees</text>
+  <text id="SUM" size="Lg">Sum</text>
+  <text id="END_RESEARCH" size="Lg">Head of Research+Development is informing you that research on [X] is preliminary finished and can be used in production. [A] engineers has been working on it during a period of [B] months at cost of [C]$. Finishing this research will allow you to start other researches:  [link]Y[/l] i [link]Z[/l]. Even though this research is finished you can still develop it, which will increase the reliability.</text>
+  <text id="NEWS" size="Lg">News</text>
+  <text id="DESCRIPTION" size="Lg">Description</text>
+  <text id="UPGRADE" size="Lg">Upgrade</text>
+  <text id="UPGRADE_ALL" size="Lg">Upgrade all</text>
+  <text id="PRODUCE" size="Lg">Produce</text>
+  <text id="AMOUNT" size="Lg">Amount</text>
+  <text id="RELIABILITY" size="Lg">Reliability</text>
+  <text id="USE" size="Lg">Use</text>
+  <text id="NAME2" size="Lg">Name</text>
+  <text id="COMPONENTS" size="Lg">Components</text>
+  <text id="SAVE" size="Lg">Save</text>
+  <text id="RESEARCH_0" size="Lg">Polymers</text>
+  <text id="RESEARCH_0_DESCRIPTION" size="Lg">Polymers are large molecules that are based on a chain of monomer subunits. Most of common use polymers are used to create materials commonly known as plastics.</text>
+  <text id="RESEARCH_1" size="Lg">Large Area Foldable Antenna</text>
+  <text id="RESEARCH_1_DESCRIPTION" size="Lg">Basically an oversized dish-shaped mesh antennas that are wrapped around satellite during liftoff and then unfold to create structures with diameters that can range from tens of meters up to hundreds of meters.</text>
+  <text id="RESEARCH_2" size="Lg">
+  </text>
+  <text id="RESEARCH_2_DESCRIPTION" size="Lg">
+  </text>
+  <text id="RESEARCH_3" size="Lg">Visible Spectrum Observations</text>
+  <text id="RESEARCH_3_DESCRIPTION" size="Lg">Visible spectrum is the portion of full EM range which is visible to human eye. This band brings a lot of generic data that is easy for interpretation.</text>
+  <text id="RESEARCH_4" size="Lg">UV Observations</text>
+  <text id="RESEARCH_4_DESCRIPTION" size="Lg">UV radiation is slightly more energetic and lies a bit below visible spectrum. This band is often used for stellar observations, because for the most part it cannot penetrate Earth's atmosphere.</text>
+  <text id="RESEARCH_5" size="Lg">Low Resolution Optical Systems</text>
+  <text id="RESEARCH_5_DESCRIPTION" size="Lg">Small sized cameras that can work on some parts of EM band, often used in astronomical observations or in low resolution stellar or Earth mapping. </text>
+  <text id="RESEARCH_6" size="Lg">Multispectral Observations</text>
+  <text id="RESEARCH_6_DESCRIPTION" size="Lg">Some data gathreing require cameras to register only defined range of EM spectrum. With specially designed filters and detectors it's possible to design compact system without the need of multiple sensors and optics.</text>
+  <text id="RESEARCH_7" size="Lg">IR Spectrum Observations</text>
+  <text id="RESEARCH_7_DESCRIPTION" size="Lg">IR or Infrared observations register light that is associated with thermal emissions, which makes it a perfect tool in wide area of subjects, including Earth, stellar or even deep space observations.</text>
+  <text id="RESEARCH_8" size="Lg">X-Ray Observations</text>
+  <text id="RESEARCH_8_DESCRIPTION" size="Lg">X-rays are energetic photons that posses energy capable of breaking atomic bonds. Observations in this band are often used in stellar observations, but can also be used to identify substances via spectrometry.</text>
+  <text id="RESEARCH_9" size="Lg">High Resolution Optical Systems</text>
+  <text id="RESEARCH_9_DESCRIPTION" size="Lg">Advanced and significantly more powerful optical systems, usually becoming primary payload of a satellite because of their sheer size.</text>
+  <text id="RESEARCH_10" size="Lg">Microvawe Spectrum Observations</text>
+  <text id="RESEARCH_10_DESCRIPTION" size="Lg">Specially designed detectors that are capable of registering microwave emissions.</text>
+  <text id="RESEARCH_11" size="Lg">Gamma Ray Observations</text>
+  <text id="RESEARCH_11_DESCRIPTION" size="Lg">A range of detectors that register the most energetic photons in the Universe, often used in astronomy and in some military satellites.</text>
+  <text id="RESEARCH_12" size="Lg">Military Grade Optical Systems</text>
+  <text id="RESEARCH_12_DESCRIPTION" size="Lg">Used in OPTINT military satellites those systems can register objects as small as having just 10 cm in diameter, which is essential for intelligence services.</text>
+  <text id="RESEARCH_13" size="Lg">RTG Generators</text>
+  <text id="RESEARCH_13_DESCRIPTION" size="Lg">Radioisotope Thermal Generators are nuclear power sources in which fission material decays creating heat, that is then converted into electricity. While not very efficent this systems can power up devices for years or even decades.</text>
+  <text id="RESEARCH_14" size="Lg">Nickel-Cadmium Batteries</text>
+  <text id="RESEARCH_14_DESCRIPTION" size="Lg">A basic battery that is sufficient enough to power up small spacecrafts in very short duration missions.</text>
+  <text id="RESEARCH_15" size="Lg">Fuel Cells</text>
+  <text id="RESEARCH_15_DESCRIPTION" size="Lg">Fuel cells are power sources in which electrical energy is generated by chemical interactions. Because limited by reagents those systems cannot work for longer than a month.</text>
+  <text id="RESEARCH_16" size="Lg">Silicon Based Photovoltanic Cells</text>
+  <text id="RESEARCH_16_DESCRIPTION" size="Lg">Basic solar cells that rely on a layer of Silicon to generate electricity that can be mounted either on specially designed, deployable "wings" or on a surface of spacecraft itself.</text>
+  <text id="RESEARCH_17" size="Lg">Stirling Cycle RTG Generators</text>
+  <text id="RESEARCH_17_DESCRIPTION" size="Lg">Advanced RTG Generators that use stirling cycle for heat to electricity conversion, which significantly raises their effectiveness, therefore requiring just the third of fission material.</text>
+  <text id="RESEARCH_18" size="Lg">Compact Fission Reactors</text>
+  <text id="RESEARCH_18_DESCRIPTION" size="Lg">Basically a compact fission reactors adapted to space use, that offer unmatched power to weight ratios. However their reliability and use is limited due to complexity of the system and generated radiation.</text>
+  <text id="RESEARCH_19" size="Lg">NiMH Batteries</text>
+  <text id="RESEARCH_19_DESCRIPTION" size="Lg">NiMH batteries or polymer batteries offer better energy to weight ratios, however can operate in low temperature environment, which makes them slightly less reliable.</text>
+  <text id="RESEARCH_20" size="Lg">Expandable Solar Panels</text>
+  <text id="RESEARCH_20_DESCRIPTION" size="Lg">Solar panels mounted on spacecraft on a set of hinges - while simpler than deployable wings, they are somewhat limited in size.</text>
+  <text id="RESEARCH_21" size="Lg">Flexible Solar Cells</text>
+  <text id="RESEARCH_21_DESCRIPTION" size="Lg">A thin layer solar cells are placed on flexible surface, which allows building a very compact and lightweight power systems, that do not need typical wings, but are less efficient than conventional PV cells.</text>
+  <text id="RESEARCH_22" size="Lg">Solar Panel Wings</text>
+  <text id="RESEARCH_22_DESCRIPTION" size="Lg">Large area solar panels that form a distinctive "wings" of spacecraft, that can be a lot larger than vehicle itself thanks to their deployable construction.</text>
+  <text id="RESEARCH_23" size="Lg">Synthetic Aperture Radar</text>
+  <text id="RESEARCH_23_DESCRIPTION" size="Lg">SAR radars are using small elements to effectively simulate radar system of larger size.</text>
+  <text id="RESEARCH_24" size="Lg">Scatterometer</text>
+  <text id="RESEARCH_24_DESCRIPTION" size="Lg">Scattometers are radar systems working on a specially chosen band which makes radiowaves scatter only from a chosen substance. It's often used in scientific observations.</text>
+  <text id="RESEARCH_25" size="Lg">Radar Altimeter</text>
+  <text id="RESEARCH_25_DESCRIPTION" size="Lg">Radiowave alimeter that can measure distance from spacecraft to targeted objects. Can be used in landers or spacecraft capable of performing docking maneuvers.</text>
+  <text id="RESEARCH_26" size="Lg">Silicion</text>
+  <text id="RESEARCH_26_DESCRIPTION" size="Lg">Si or Silicon is a periodic element essential in wide variety of projects from electronics, solar cells to thermal protection surfaces.</text>
+  <text id="RESEARCH_27" size="Lg">Aluminium Based Alloys</text>
+  <text id="RESEARCH_27_DESCRIPTION" size="Lg">Aluminium is often base material in various alloys that are used in aeronautic and aerospace engineering.</text>
+  <text id="RESEARCH_28" size="Lg">Al-Mg Airframes</text>
+  <text id="RESEARCH_28_DESCRIPTION" size="Lg">Alluminium-Magnesium alloys are very lightweight materials that find appliances in many space projects - usually in satellite construction.</text>
+  <text id="RESEARCH_29" size="Lg">Industrial Textiles</text>
+  <text id="RESEARCH_29_DESCRIPTION" size="Lg">Industrial textiles are a wide area of synthetic fibres that can be used to create textiles of uniqe properties.</text>
+  <text id="ASSEMBLY_OBJECTS_0" size="Lg">Communication Satellite</text>
+  <text id="ASSEMBLY_OBJECTS_0_DESCRIPTION" size="Lg">test</text>
+  <text id="RESEARCH_30" size="Lg">Communication Satellite Construction</text>
+  <text id="RESEARCH_30_DESCRIPTION" size="Lg">Communication satellites are most commonly built spacecrafts designed to send or relay a wide variety of streams of data.</text>
+  <text id="RESEARCH_31" size="Lg">Scientific Satellite Construction</text>
+  <text id="RESEARCH_31_DESCRIPTION" size="Lg">Scientific satellites can vary in sizes and specifications as their only purpose is to gather scientific data.</text>
+  <text id="RESEARCH_32" size="Lg">Picosatellite Construction</text>
+  <text id="RESEARCH_32_DESCRIPTION" size="Lg">Smallest satellites of mass not exceeding 1 kilogram. Usually cubesats that require dispensers to be released in orbit.</text>
+  <text id="RESEARCH_33" size="Lg">Weather Satellite Construction</text>
+  <text id="RESEARCH_33_DESCRIPTION" size="Lg">Weather satellites are specially designed scientific satellites that observe wide areas of Earth and gather data on weather patterns.</text>
+  <text id="RESEARCH_34" size="Lg">Earth Observing Satellite Construction</text>
+  <text id="RESEARCH_34_DESCRIPTION" size="Lg">A wide range of satellites which use various camera systems to take pictures of Earth.</text>
+  <text id="RESEARCH_35" size="Lg">Military Satellite Construction</text>
+  <text id="RESEARCH_35_DESCRIPTION" size="Lg">Those satellites are used by all three branches of the military in a very wide range of aspects.</text>
+  <text id="RESEARCH_36" size="Lg">Radar Satellite Construction</text>
+  <text id="RESEARCH_36_DESCRIPTION" size="Lg">desc</text>
+  <text id="RESEARCH_37" size="Lg">Nanosatellite Construction</text>
+  <text id="RESEARCH_37_DESCRIPTION" size="Lg">A small class of satellites with masses not exceeding 10 kg. It's the smallest spacecraft that does not require dispencer.</text>
+  <text id="RESEARCH_38" size="Lg">Deep Space Observatory Satellite Construction</text>
+  <text id="RESEARCH_38_DESCRIPTION" size="Lg">A range of observatory satellites used in astronomy observations in all available EM spectrum.</text>
+  <text id="RESEARCH_39" size="Lg">Military OPTINT Satellite Construction</text>
+  <text id="RESEARCH_39_DESCRIPTION" size="Lg">Military satellites being essentialy giant optical systems used for gathering low and high resolution images of targets.</text>
+  <text id="RESEARCH_40" size="Lg">Military Telecomunications Satellite Construction</text>
+  <text id="RESEARCH_40_DESCRIPTION" size="Lg">This class of satellites use special orbits, EM-bands and encrypted communications used by the military.</text>
+  <text id="RESEARCH_41" size="Lg">Military SIGINT/ELINT Satellite Construction</text>
+  <text id="RESEARCH_41_DESCRIPTION" size="Lg">Class of satellites used by the military to intercept and identify radio emissions.</text>
+  <text id="RESEARCH_42" size="Lg">Atmospheric Drag Reduction</text>
+  <text id="RESEARCH_42_DESCRIPTION" size="Lg">Because satellites residing in LEO orbits are suspicable to some level of atmospheric drag, it's possible to design satellite which is aerodynamically shaped, therefore limiting orbit decay.</text>
+  <text id="RESEARCH_43" size="Lg">Military Radar Satellite Construction</text>
+  <text id="RESEARCH_43_DESCRIPTION" size="Lg">Military radar satellites can be used as radar mapping spaccerafts or as space-based radar systems being able to detect and track objects on Earth.</text>
+  <text id="RESEARCH_44" size="Lg">Military Early Warning Satellites</text>
+  <text id="RESEARCH_44_DESCRIPTION" size="Lg">A specialised group of military satellites that are designed to quickly detect threats such as ICBM launches or nuclear detonaions.</text>
+  <text id="RESEARCH_45" size="Lg">Microsatellite Construction</text>
+  <text id="RESEARCH_45_DESCRIPTION" size="Lg">A range of satellites with masses between 10 and 100 kilograms.</text>
+  <text id="RESEARCH_46" size="Lg">Exploratory Satellite Construction</text>
+  <text id="RESEARCH_46_DESCRIPTION" size="Lg">Exploratory satellites are essentially probes that have to be physically present at their destination to work properly.</text>
+  <text id="RESEARCH_47" size="Lg">Minisatellite Construction</text>
+  <text id="RESEARCH_47_DESCRIPTION" size="Lg">Minisatellites are a growing number of designs that do not exceed masses of half a metric ton.</text>
+  <text id="RESEARCH_48" size="Lg">Deep Space Data Relay Satellite Construction</text>
+  <text id="RESEARCH_48_DESCRIPTION" size="Lg">This class of exploratory satellites are designed for one thing only - to gather data from other spacecraft and relay that at high speed to Earth.</text>
+  <text id="RESEARCH_49" size="Lg">Flyby Probe Construction</text>
+  <text id="RESEARCH_49_DESCRIPTION" size="Lg">Exploratory satellites used as probes that are designed to gather information about objects by flying close to them.</text>
+  <text id="RESEARCH_50" size="Lg">Atmospheric Deceleration</text>
+  <text id="RESEARCH_50_DESCRIPTION" size="Lg">Celestial objects possesing atmosphere can be used to slow down spacecraft therefore limiting the ammount of fuel required onboard.</text>
+  <text id="RESEARCH_51" size="Lg">Planetary Explorer Satellite Construction</text>
+  <text id="RESEARCH_51_DESCRIPTION" size="Lg">Specially designed interstellar satellites that can use their engines to successfully enter orbits around celestial bodies.</text>
+  <text id="RESEARCH_52" size="Lg">Radiation Hardening</text>
+  <text id="RESEARCH_52_DESCRIPTION" size="Lg">Radiation hardening is a technique of spacecraft design that allows them to operate in highly radiated enviroments by using specially designrd materials and components.</text>
+  <text id="RESEARCH_53" size="Lg">Low Power Flight Computer</text>
+  <text id="RESEARCH_53_DESCRIPTION" size="Lg">A simple computer hardware used in smaller satellites as command and contrl component.</text>
+  <text id="RESEARCH_54" size="Lg">Medium Onboard Computer</text>
+  <text id="RESEARCH_54_DESCRIPTION" size="Lg">Advanced flight computer used in small to medium sized satellites as command and control component.</text>
+  <text id="RESEARCH_55" size="Lg">Computer Redundancy</text>
+  <text id="RESEARCH_55_DESCRIPTION" size="Lg">Redundant computer systems that rely on two computers working in two independant blocks. In case of failure, backup computer can perform all functions of the primary one.</text>
+  <text id="RESEARCH_56" size="Lg">Large Onboard Computer</text>
+  <text id="RESEARCH_56_DESCRIPTION" size="Lg">A most advanced flight computer that can control even the most demanding subsystems of the satellite.</text>
+  <text id="RESEARCH_57" size="Lg">Nozzle Construction</text>
+  <text id="RESEARCH_57_DESCRIPTION" size="Lg">Each rocket engine requires specially designed nozzle, that allows optimal gas expansion, therefore rising the efficiency of the rocket motor.</text>
+  <text id="RESEARCH_58" size="Lg">Liquid Propellants</text>
+  <text id="RESEARCH_58_DESCRIPTION" size="Lg">Liquid propellants - fuels and oxidisers - can be used in advanced rocket motors that achieve higher efficiencies than solid or hybrid counterparts, however they are significantly more complex.</text>
+  <text id="RESEARCH_59" size="Lg">Monopropellants</text>
+  <text id="RESEARCH_59_DESCRIPTION" size="Lg">Monopropellants are chemical compounds that can generate thrust by reactively decomposing into gas in a presence of catalyst.</text>
+  <text id="RESEARCH_60" size="Lg">Bipropellants</text>
+  <text id="RESEARCH_60_DESCRIPTION" size="Lg">Bipropellants are a combination of two chemical compounds - fuels and oxidisers - that are burned to generate thrust. Bipropellants are basis for hybrid and liquid rocket motors.</text>
+  <text id="RESEARCH_61" size="Lg">Cold Gas</text>
+  <text id="RESEARCH_61_DESCRIPTION" size="Lg">A very basic thrust generating system in which non-reactive gas is expelled to create dynamic force allowing control of spacecraft in non-atmospheric environment.</text>
+  <text id="RESEARCH_62" size="Lg">HyPerOx</text>
+  <text id="RESEARCH_62_DESCRIPTION" size="Lg">Hydrogen peroxide is a highly reactive substance that can be used as a monopropellant, with addition of silver catalyst to produce thrust in a thruster.</text>
+  <text id="RESEARCH_63" size="Lg">Hydrazine</text>
+  <text id="RESEARCH_63_DESCRIPTION" size="Lg">Hydrazine is another wildly used monopropellant which decomposes when subjected to presence of iridium catalyst.</text>
+  <text id="RESEARCH_64" size="Lg">Nitrous Oxide</text>
+  <text id="RESEARCH_64_DESCRIPTION" size="Lg">A blended monopropellant based on nitrous oxide that is blended with fuel in a motor. Offers higher effectiveness than other monopropellants, however it's more difficult to handle.</text>
+  <text id="RESEARCH_65" size="Lg">Igniters</text>
+  <text id="RESEARCH_65_DESCRIPTION" size="Lg">Some combinations of fuels and oxidisers are non-hypergolic, therefore require chemical or electrical igniters to kick-start their rocket motors.</text>
+  <text id="RESEARCH_66" size="Lg">Hydrocarbons</text>
+  <text id="RESEARCH_66_DESCRIPTION" size="Lg">Hydrocarbon fuels are stable and far less hazardous than their hypergolic counterparts and still offer a reasonable efficiency in a rocket motor.</text>
+  <text id="RESEARCH_67" size="Lg">Hypergolics</text>
+  <text id="RESEARCH_67_DESCRIPTION" size="Lg">Hypergolic propellants are a class of fuels and oxidisers that ignite spontanously upon contact, therefore not needing specialised ignition mechanisms. However they are extremely toxic and hazardous.</text>
+  <text id="RESEARCH_68" size="Lg">RP-1/GOX</text>
+  <text id="RESEARCH_68_DESCRIPTION" size="Lg">Environment friendly approaches can utilise hydrocarbon fuel burned in a presence of gaseous oxygen as oxidiser, offering more environmentally friendly systems that unfortunately require ignition systems.</text>
+  <text id="RESEARCH_69" size="Lg">Hypergolic Thrusters</text>
+  <text id="RESEARCH_69_DESCRIPTION" size="Lg">A range of thruster technology which utilises hypergolic propellants therefore not requiring ignition mechanisms, which allows building less complex hardware.</text>
+  <text id="RESEARCH_70" size="Lg">Cold Gas Thrusters</text>
+  <text id="RESEARCH_70_DESCRIPTION" size="Lg">Cold gas thrusters are the simplest force generating "motors" that use inert gas to create thrust. They are very inefficient and therefore find use only in smallest of crafts or as vernier engines.</text>
+  <text id="RESEARCH_71" size="Lg">Hydrogen Peroxide Thrusters</text>
+  <text id="RESEARCH_71_DESCRIPTION" size="Lg">Those simple thrusters are monopropellant based, in which hydrogen peroxide decomposes into hot gas to generate thrust.</text>
+  <text id="RESEARCH_72" size="Lg">Hydrazine Thrusters</text>
+  <text id="RESEARCH_72_DESCRIPTION" size="Lg">desc</text>
+  <text id="RESEARCH_73" size="Lg">Nitrous Oxide Thrusters</text>
+  <text id="RESEARCH_73_DESCRIPTION" size="Lg">desc</text>
+  <text id="RESEARCH_74" size="Lg">RP-1/GOX Thrusters</text>
+  <text id="RESEARCH_74_DESCRIPTION" size="Lg">desc</text>
+  <text id="RESEARCH_75" size="Lg">N2O4/MMH Thrusters</text>
+  <text id="RESEARCH_75_DESCRIPTION" size="Lg">desc</text>
+  <text id="RESEARCH_76" size="Lg">N2O4/UDMH Thrusters</text>
+  <text id="RESEARCH_76_DESCRIPTION" size="Lg">desc</text>
+  <text id="RESEARCH_77" size="Lg">Heavy Satellit Construction</text>
+  <text id="RESEARCH_77_DESCRIPTION" size="Lg">This class of satellites are the most advanced constructions with masses exceeding 500 kilograms.</text>
+  <text id="RESEARCH_78" size="Lg">UHF Radio</text>
+  <text id="RESEARCH_78_DESCRIPTION" size="Lg">description</text>
+  <text id="RESEARCH_79" size="Lg">UHF Transmitter</text>
+  <text id="RESEARCH_79_DESCRIPTION" size="Lg">desp</text>
+  <text id="RESEARCH_80" size="Lg">Low-Gain Telemetry Communications</text>
+  <text id="RESEARCH_80_DESCRIPTION" size="Lg">A low data rate transmissions which are used to stream data from and to command and control hardware.</text>
+  <text id="RESEARCH_81" size="Lg">K-Band Transmitter</text>
+  <text id="RESEARCH_81_DESCRIPTION" size="Lg">desp</text>
+  <text id="RESEARCH_82" size="Lg">C-Band Transponders</text>
+  <text id="RESEARCH_82_DESCRIPTION" size="Lg">desp</text>
+  <text id="RESEARCH_83" size="Lg">High-Gain Data Transmission</text>
+  <text id="RESEARCH_83_DESCRIPTION" size="Lg">desc</text>
+  <text id="RESEARCH_84" size="Lg">Ka-Band Transponder</text>
+  <text id="RESEARCH_84_DESCRIPTION" size="Lg">desc</text>
+  <text id="RESEARCH_85" size="Lg">Laser Based Data Relay</text>
+  <text id="RESEARCH_85_DESCRIPTION" size="Lg">A laser technology that allows high-speed deep space communications.</text>
+  <text id="RESEARCH_86" size="Lg">Ku-Band Transpodne</text>
+  <text id="RESEARCH_86_DESCRIPTION" size="Lg">Opis Eng</text>
+  <text id="RESEARCH_87" size="Lg">High-Energy Laser Transmitter</text>
+  <text id="RESEARCH_87_DESCRIPTION" size="Lg">A communication device that uses directed high-energy laser radiation as a medium of high speed data transfer.</text>
+  <text id="RELIABILITY_[%]" size="Lg">Reliability [%]</text>
+  <text id="FINISHED_CONTRACTS" size="Lg">Finished contracts</text>
+  <text id="SUCCESSFUL_MISSIONS" size="Lg">Successful missions</text>
+  <text id="FAILED_MISSIONS" size="Lg">Failed missions</text>
+  <text id="CONTRACT_WORK" size="Lg">Contract work</text>
+  <text id="STOCKS" size="Lg">Stocks</text>
+  <text id="EVENT_TITLE_0" size="Lg">ECONOMIC CRISIS</text>
+  <text id="EVENT_TEXT_0" size="Lg">Your advisor is informing you that due to global economic crisis, in the next few months you should expect a decrease of orders from government and public business. You should consider what actions should be taken in that circumstances, maybe plan to cut some expenses. Right now you probably should not hire any new employees. Do not forget that even in tough times like this, it is important to keep you goals in mind and proceed with the general plan.</text>
+  <text id="EVENT_ANSWER_TEXT_0_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_0_-1_0" size="Lg">50% less offers for period of [X] months</text>
+  <text id="EVENT_TITLE_1" size="Lg">LOBBYING ACCUSATIONS</text>
+  <text id="EVENT_TEXT_1" size="Lg">One of competitive companies accused you lately of lobbying. You have been proven to have close contacts with few politicians, whose decisions may have big influence on establishing government contracts with your company. Although you do know those politicians quite closely, the accusations of lobbying were false. Fortunately, thanks to the good work of you layers, in the last few weeks you were able to clear yourself from any suspicion.</text>
+  <text id="EVENT_ANSWER_TEXT_1_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_1_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_2" size="Lg">CRITICISM FROM MINISTRY OF FOREIGN AFFAIRS</text>
+  <text id="EVENT_TEXT_2" size="Lg">Your advisor has just informed you that Ministry of Foreign Affairs had made a statement in which they express their surprise with the cooperation of your company and [COMPANYWITHCONTRACT] Media reports that for the last few months tense situation between the two countries has evolved into many diplomatic disagreements. therefore your contract was highly disapproved among members of the Ministry. You can expects some problems with finalizing current government contracts.</text>
+  <text id="EVENT_ANSWER_TEXT_2_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_2_-1_0" size="Lg">Delays in paychecks for contract (2 months).</text>
+  <text id="EVENT_EFFECT_TEXT_2_-1_1" size="Lg">The contract will prolong for [X] more months.</text>
+  <text id="EVENT_TITLE_3" size="Lg">PROBLEMS WITH BANK</text>
+  <text id="EVENT_TEXT_3" size="Lg">Financial Department informs you that one of the banks where your company has accounts is experiencing financial problems. They claim to have control over it, but our internal source tells us the situation is in fact very serious. For the next 6 months some of your company’s money will not be available. Fortunately other banks where you keep your accounts are doing just fine.</text>
+  <text id="EVENT_ANSWER_TEXT_3_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_3_-1_0" size="Lg">For 6 months [X]% of your money is not available.</text>
+  <text id="EVENT_TITLE_4" size="Lg">MALFUNCTION IN ASSEMBLY BUILDING</text>
+  <text id="EVENT_TEXT_4" size="Lg">Attention! You just got bad news from Vehicle Assembly Building. A malfunction has been detected in one of the mechanisms. For this moment all the work in there has been postponed because of it. The problem is not only with time, but also money. The repair will be quite expensive. The insurance will cover some of it, but because the machine was probably used to frequently at once (according to the producer), it will not cover the whole amount.</text>
+  <text id="EVENT_ANSWER_TEXT_4_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_4_-1_0" size="Lg">Costs: 50 000 $</text>
+  <text id="EVENT_TITLE_5" size="Lg">CELEBRITY’S SUPPORT</text>
+  <text id="EVENT_TEXT_5" size="Lg">You just got good PR action for free. One of the most valued celebrities spoke favourably of your company in the interview for popular TV channel. This is what he said: “I observe achievements of this company and I must say I am really impressed by their visionary. I follow them on social networks and I would definitely recommend that to everyone who is interested in space industry.” Since this speech Marketing Department noticed a greater interest in our websites and social networking profiles.</text>
+  <text id="EVENT_ANSWER_TEXT_5_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_5_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_6" size="Lg">CELEBRITY BECOMES A FACE OF YOUR COMPANY</text>
+  <text id="EVENT_TEXT_6" size="Lg">Famous illusionist will become a face of your company. He is known for his fascination with space and science, also he is taking huge interest in space travelling. His show became very popular recently, so this should bring some attention also to your company. It might be a very good idea to try present space industry as one full of fun, not just serious matters. The more people talk about it, the bigger interest comes from financial suppliers.</text>
+  <text id="EVENT_ANSWER_TEXT_6_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_6_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_7" size="Lg">ASTRONAUT’S RESIGNATION</text>
+  <text id="EVENT_TEXT_7" size="Lg">Today an experienced member of your space crew [20YEARSWORKASTRONAUT] just gave notice in HR Department. He decided to leave the space program and retire. He said he really enjoyed working for your company with its ups and downs, but because of his heart condition he can no longer put himself in stressful situations. According to the agreement he has been given his redundancy payment in the amount of [X] $ He also suggested he can give some motivations lectures for new employees.</text>
+  <text id="EVENT_ANSWER_TEXT_7_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_7_-1_0" size="Lg">Costs: [X]$</text>
+  <text id="EVENT_EFFECT_TEXT_7_-1_1" size="Lg">You might want to hire new astronaut.</text>
+  <text id="EVENT_TITLE_8" size="Lg">COMPANY OF THE YEAR</text>
+  <text id="EVENT_TEXT_8" size="Lg">Congratulations! Your company has been named the Company of the Year. Many aspects were taken in consideration when awarding this title. One of most important things was care for environment and your company fulfils huge majority of expectations in this industry. Second crucial factor was how employees feel in your company: is there friendly atmosphere, are the payrolls satisfying, do you provide good social and health care. This area turned out to be perfect too! Also you have a very good image in media and even among other corporations. Once again: congratulations!</text>
+  <text id="EVENT_ANSWER_TEXT_8_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_8_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_9" size="Lg">LOCAL NATURAL DISASTER</text>
+  <text id="EVENT_TEXT_9" size="Lg">Important notice! In the area there was a mild flood. No lives are in danger, but it causes a lot of problems. Fortunately your buildings are safe, but houses of some of you employees, who live nearby were damaged and right now they are not able to work while taking care of their properties and families. You should probably think of some kind of financial help for them too. There are complications with transportation and some suppliers could not get to your company in time. You should expect some financial consequences because of this situation.</text>
+  <text id="EVENT_ANSWER_TEXT_9_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_9_-1_0" size="Lg">Costs: [X]$</text>
+  <text id="EVENT_TITLE_10" size="Lg">COMPETITION FAILED WITH MANNED MISSION</text>
+  <text id="EVENT_TEXT_10" size="Lg">You are fighting with competition each day on many fields and although it might not be the nicest idea to be happy about someone else’s failure, you probably won’t be sad to hear this news. Your competitor [FIRMA] just failed with manned mission to Mars. The start was successful as most of the flight but later they had some problems with landing and in the end did not put their foot on Mars and returned safely on Earth. Beware: even if it might be a good a information that your competition is not a head of you, on the other hand failures like this might cause bad reputation of flights to Mars.</text>
+  <text id="EVENT_ANSWER_TEXT_10_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_10_-1_0" size="Lg">Manned flights will be banned for 12 months</text>
+  <text id="EVENT_EFFECT_TEXT_10_-1_1" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_11" size="Lg">HACKERS' ATTACK</text>
+  <text id="EVENT_TEXT_11" size="Lg">Last night some hackers broke into your company’s computers. It is suspected to be an unfair action of the competition. Luckily protection system managed to block access to the most crucial files with construction plans and patents. IT department informs that among stolen documents there was information on your current staff. Although it is not certain that was the target of the break-in. There are speculations that one of competitive companies plans to buy off some of your most valuable employees.</text>
+  <text id="EVENT_ANSWER_TEXT_11_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_11_-1_0" size="Lg">Additional costs for better protection: 20 000 $</text>
+  <text id="EVENT_EFFECT_TEXT_11_-1_1" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_12" size="Lg">SUCCESFULL SCIENTIFIC CONFERENCE</text>
+  <text id="EVENT_TEXT_12" size="Lg">Scientific conference on plant breeding on Mars, which took place last week was very successful. A lot of notable scientists participated which has brought the attention of media. The journalist from Nature was present and promised to write a very favourable article. Thanks to the media your company has also became more popular - according to we analysis the number of pageviews for your website has raised.</text>
+  <text id="EVENT_ANSWER_TEXT_12_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_12_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_13" size="Lg">ECOLOGICAL PROTEST</text>
+  <text id="EVENT_TEXT_13" size="Lg">Local environment organisation “Yes for Environment” walked out with protest against development of building [BUILDING]. According to their accusations constructions in this area may cause local distinction of a particular bird species. Legal department informs that while this problem is being solved the construction has to be closed. This might take around [X] months. Unfortunately this topic also occurred in local press and television, which shows our company in bad light.</text>
+  <text id="EVENT_ANSWER_TEXT_13_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_13_-1_0" size="Lg">Building construction will be closed for [X] months.</text>
+  <text id="EVENT_EFFECT_TEXT_13_-1_1" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_14" size="Lg">EMPLOYEES' AFFAIR</text>
+  <text id="EVENT_TEXT_14" size="Lg">HR department is struggling with two employees in your company (from Psychology Research Department). It came to an affair between them which causes quite a confusion among staff. Moreover, wife of one of them has found out about the affair and now very frequently calls the office, which is also a huge disturbance in work. Probably because of this situations some of the projects in Psychology Research Department has been delayed.</text>
+  <text id="EVENT_ANSWER_TEXT_14_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_14_-1_0" size="Lg">Your current research in Psychology will be delayed by 1 month.</text>
+  <text id="EVENT_TITLE_15" size="Lg">SUBORBITAL FLIGHTS TREND</text>
+  <text id="EVENT_TEXT_15" size="Lg">In the last couple of weeks suborbital flights has become much more popular. There are being mentioned on many TV shows, in newspaper and online articles. Thanks to that people are more interested in flying into space. A new trend among wealthy people can be observed.  Of course this makes the investors more enthusiastic. You can expects increased number of orders coming from different sources.</text>
+  <text id="EVENT_ANSWER_TEXT_15_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_15_-1_0" size="Lg">Increased interest in space industry.</text>
+  <text id="EVENT_TITLE_16" size="Lg">SUPPORT FOR PRESIDENTIAL CANDIDATE</text>
+  <text id="EVENT_TEXT_16" size="Lg">One of presidential candidates came to you with a proposition of supporting him during his election campaign. This is a great opportunity of cooperation which you should definitely benefit from. This candidate is commonly associated with progress and modernity, he is well known for supporting scientific projects. The cooperation will refresh your image and should bring more interest into your company in media. Although, be aware that from now on you will be linked to certain political views.</text>
+  <text id="EVENT_ANSWER_TEXT_16_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_16_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_17" size="Lg">PROJECT MANAGER BOUGHT OFF BY COMPETITION</text>
+  <text id="EVENT_TEXT_17" size="Lg">One of your most valued employees, Project Manager [PROJECT MANAGER] has been bought off by the competition. Human Resources Department is very surprised by this event, because, as they say, he seemed to be really satisfied with his job and did not object to any aspects of it. They suspect the competitive company might have offered him a substantial raise, but maybe that was not the issue. You should probably work more on your relations with employees and make them feel how important they are to your company.</text>
+  <text id="EVENT_ANSWER_TEXT_17_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_17_-1_0" size="Lg">You need to hire new Project Manager.</text>
+  <text id="EVENT_TITLE_18" size="Lg">CONTRACT WITH NSAAO CANCELLED</text>
+  <text id="EVENT_TEXT_18" size="Lg">NSAAO has just cancelled a contract with your company. They said they are not satisfied with your progress and the fact that lately you are having some delays with current projects. Your image in media has suffered a lot because of that and NSAAO do not want to work with an untrustworthy company. Maybe you should concentrate now on smaller contracts in private sector and gain the trust of the public as quickly as possible.</text>
+  <text id="EVENT_ANSWER_TEXT_18_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_18_-1_0" size="Lg">No offers from NSAAO till your Prestige increases by 10%.</text>
+  <text id="EVENT_TITLE_19" size="Lg">CHANGES IN NSAAO STRATEGY</text>
+  <text id="EVENT_TEXT_19" size="Lg">NSAAO has changed their strategy for space researches. They decided that at the moment they want to invest in manned flights instead of satellite ones. They explain now it is the best time for more advanced research and therefore crew present on board is very important to get specific data. A lot of satellite projects is currently on, so they feel no need to support new ones. If you want to sign new contracts with NSAAO at the moment, you will need to get ready for manned missions.</text>
+  <text id="EVENT_ANSWER_TEXT_19_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_19_-1_0" size="Lg">Only manned mission offers from NSAAO for the next 3 years.</text>
+  <text id="EVENT_TITLE_20" size="Lg">CHANGES IS MILITARY PROGRAM</text>
+  <text id="EVENT_TEXT_20" size="Lg">There has been changes in military space program. They decided that at the moment they want to invest in satellite missions instead of manned flights. They explain for the moment it has become to expensive to finance manned missions and they did not turn out as effective as they expected. Few manned missions is still currently on, so they feel no need to support new ones. If you want to sign new military contracts at the moment, you will need to get ready for satellite missions.</text>
+  <text id="EVENT_ANSWER_TEXT_20_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_20_-1_0" size="Lg">Only manned mission offers from the army for the next 3 years.</text>
+  <text id="EVENT_TITLE_21" size="Lg">DELAYS IN BUILDING'S DEVELOPMENT</text>
+  <text id="EVENT_TEXT_21" size="Lg">There has been some delays in the development of building [BUILDING]. The main problem is that some of the parts you ordered has not been delivered on time. Also there is a flu going around the company, so you are short on few employees. But everyone is giving their best, so despite all the problems the delay should cause just 1 more month to finish the building.</text>
+  <text id="EVENT_ANSWER_TEXT_21_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_21_-1_0" size="Lg">Your building will be finished 1 month later.</text>
+  <text id="EVENT_TITLE_22" size="Lg">FAILED THERMAL TESTS</text>
+  <text id="EVENT_TEXT_22" size="Lg">Project Manager responsible for the Satellite Program, has just informed you that during tests, the components that has been examined did not pass thermal tests. According to what he said, this entails with the need of redesigning the components and therefore additional costs and delay for about [X] months in finalizing the project.</text>
+  <text id="EVENT_ANSWER_TEXT_22_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_22_-1_0" size="Lg">Additional costs: [X] $</text>
+  <text id="EVENT_EFFECT_TEXT_22_-1_1" size="Lg">Research will be delayed [X] months.</text>
+  <text id="EVENT_TITLE_23" size="Lg">POSSIBLE CONTAMINATION OF COMPONENTS</text>
+  <text id="EVENT_TEXT_23" size="Lg">One of the engineers responsible for the [PROGRAM] informed you during today’s morning meeting that because of the malfunction in the Clean Room it is possible one of the components used in the project was contaminated. They do not know the reason for malfunction, it might be error of the machine or technician's omission. Anyhow because of it you will suffer additional costs and the project will be postponed for about a month.</text>
+  <text id="EVENT_ANSWER_TEXT_23_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_23_-1_0" size="Lg">Additional costs: [X] $</text>
+  <text id="EVENT_EFFECT_TEXT_23_-1_1" size="Lg">Research will be delayed 1 month.</text>
+  <text id="EVENT_TITLE_24" size="Lg">SUBSTANCE LEAKAGE</text>
+  <text id="EVENT_TEXT_24" size="Lg">During routine works there was a leakage of dangerous substance. It happened because of some small malfunction and now situation is under control. Unfortunately in the course of this accident a lot of chemicals from fuel were lost, which brings new costs for your company. Also some equipment was destroyed and some components were contaminated. There were no casualties.</text>
+  <text id="EVENT_ANSWER_TEXT_24_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_24_-1_0" size="Lg">Additional costs: 30 000 $</text>
+  <text id="EVENT_TITLE_25" size="Lg">FATAL ACCIDENT</text>
+  <text id="EVENT_TEXT_25" size="Lg">Today’s morning there has been a terrible accident at the Vehicle Assembly Building. One person is dead. Our young technician [ENGINEER] was crushed by the falling part, which disconnected from the vehicle. The cause is still unknown and the investigation is in the process. Tomorrow you have a meeting with the family and after that with the employees. All the works in the Vehicle Assembly Building are stopped till the end of the investigation.</text>
+  <text id="EVENT_ANSWER_TEXT_25_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_25_-1_0" size="Lg">Works in Vehicle Assembly Building will be stopped for one month.</text>
+  <text id="EVENT_EFFECT_TEXT_25_-1_1" size="Lg">You might want to hire new engineer.</text>
+  <text id="EVENT_TITLE_26" size="Lg">BREAKTHROUGH IN THE CONSTRUCTION</text>
+  <text id="EVENT_TEXT_26" size="Lg">One of the most experienced engineers has just informed you about a breakthrough in the construction. Thanks to his innovations, implementation of the [RESEARCH] will be easier and faster, so the finalisation of the mission should take [X] months less. It was a very good decision to hire this engineer, congratulations.</text>
+  <text id="EVENT_ANSWER_TEXT_26_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_26_-1_0" size="Lg">Research will take [X] months less.</text>
+  <text id="EVENT_TITLE_27" size="Lg">INCORRECT CALCULATIONS</text>
+  <text id="EVENT_TEXT_27" size="Lg">Financial Department has some bad news for you about research [RESEARCH]. While planning it you miscalculated the costs. Some of the parts you ordered turned out to be more expensive. Also the project is taking longer that you suspected so your employees have to work longer and therefore they need bigger salary. You will need to spend more money on this research.</text>
+  <text id="EVENT_ANSWER_TEXT_27_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_27_-1_0" size="Lg">Additional costs: [X]$</text>
+  <text id="EVENT_EFFECT_TEXT_27_-1_1" size="Lg">The research will take [X] months more.</text>
+  <text id="EVENT_TITLE_28" size="Lg">DEATH OF ASTRONAUT'S RELATIVE</text>
+  <text id="EVENT_TEXT_28" size="Lg">You have been notified that wife of one of your employee’s has just died in a car accident. He has been informed as well, stopped working and from now on is at leave. [TRAINEDASTRONAUT] is one of your astronauts, so you will need to find a replacement for him very quickly. If at the moment there is no one prepared for the job, this might delay your missions.</text>
+  <text id="EVENT_ANSWER_TEXT_28_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_28_-1_0" size="Lg">[TRAINEDASTRONAUT] will not be available for the next [X] months</text>
+  <text id="EVENT_TITLE_29" size="Lg">THOROUGH INSPECTION BY SPY SATELLITE OF THE COMPETITION</text>
+  <text id="EVENT_TEXT_29" size="Lg">During manned mission of your company, the crew noticed something suspicious. Later they discovered some unknown object was inspecting their shuttle. They assumed that it was a spy satellite sent by one of competitive companies. The specific purpose of this inspection remains unknown, but it is quite obvious the competition may try to jeopardize your mission. You shouldn’t be very worried, though, the crew is quite sure that the satellite did not manage to gain any crucial information.</text>
+  <text id="EVENT_ANSWER_TEXT_29_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_29_-1_0" size="Lg">Your competition might develop quicker.</text>
+  <text id="EVENT_TITLE_30" size="Lg">DEATH OF THE ASTRONAUT</text>
+  <text id="EVENT_TEXT_30" size="Lg">You have just got very bad information. There was a terrible accident during manned mission. While the shuttle was in orbit, during routine activities, there was an explosion and one of the astronauts was seriously injured. Medics came to help him and they tried their best,but it was to late. [ASTRONAUTINSPACE] died after few hours. For now the causes of explosion remain unknown. To continue the mission you should find a replacement for the astronaut, otherwise it will have to be aborted.</text>
+  <text id="EVENT_ANSWER_TEXT_30_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_30_-1_0" size="Lg">You can visit the grave of [ASTRONAUTINSPACE] on Cemetery.</text>
+  <text id="EVENT_EFFECT_TEXT_30_-1_1" size="Lg">You need to hire new astronaut.</text>
+  <text id="EVENT_TITLE_31" size="Lg">ASTRONAUT'S SICKNESS</text>
+  <text id="EVENT_TEXT_31" size="Lg">One of your employees, an astronaut [TRAINEDASTRONAUT] is seriously ill. His life is not in danger, but the disease will cause his absence for few months. During that time you cannot use him in any missions, so you will have to find a replacement or postpone your plans. Try to remember to always have additional fully trained employees.</text>
+  <text id="EVENT_ANSWER_TEXT_31_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_31_-1_0" size="Lg">Astronaut [TRAINEDASTRONAUT] will not be available for [X] months.</text>
+  <text id="EVENT_TITLE_32" size="Lg">ECONOMIC GROWTH</text>
+  <text id="EVENT_TEXT_32" size="Lg">Your advisor is informing you that thank to latest economic growth in the next few months you should expect an increase of orders from government and public business. Right now it is probably the best moment to hire new employees and plan new missions.</text>
+  <text id="EVENT_ANSWER_TEXT_32_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_32_-1_0" size="Lg">50% more offers for the next [X] months.</text>
+  <text id="EVENT_TITLE_33" size="Lg">ACCUSATIONS OF TAX EVASION</text>
+  <text id="EVENT_TEXT_33" size="Lg">One of competitive companies accused you lately of tax evasion. They were in possession of some materials showing your income was much bigger than you presented. Your lawyers investigated the situation and it turned out that the fraud was actually made by your accountant but without your knowledge. He admitted it was his own idea and to stealing money from your company. Your company managed to be cleared in court, but your reputation will suffer.</text>
+  <text id="EVENT_ANSWER_TEXT_33_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_33_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_34" size="Lg">SUPPORT FROM MINISTRY OF FOREIGN AFFAIRS</text>
+  <text id="EVENT_TEXT_34" size="Lg">Your advisor has just informed you that Ministry of Foreign Affairs had made a statement in which they express their support for cooperation of your company and [COMPANYWITHCONTRACT] Media reports that for the last few months situation between the two countries is going more and more positive. Therefore your contract was highly approved among members of the Ministry, because it makes the relations even better. You can expects more contracts with government.</text>
+  <text id="EVENT_ANSWER_TEXT_34_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_34_-1_0" size="Lg">50% more offers from NSAAO for the next [X] months.</text>
+  <text id="EVENT_TITLE_35" size="Lg">MALFUNCTION AT LAUNCH FACILITY</text>
+  <text id="EVENT_TEXT_35" size="Lg">Attention! You just got bad news from [LAUNCHFACILITY]. A malfunction has been detected in one of the mechanisms. Unfortunately the repair will be quite expensive and it will take some time to fix it.</text>
+  <text id="EVENT_ANSWER_TEXT_35_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_35_-1_0" size="Lg">For the next 2 weeks you won’t be able to use [LAUNCHFACILITY]</text>
+  <text id="EVENT_TITLE_36" size="Lg">SCIENTIST’S FAILURE</text>
+  <text id="EVENT_TEXT_36" size="Lg">The scientist that you hired some months ago, turned out not to be so brilliant after all. You are getting information that for the next time his innovative idea did not work. He seems to be trying very hard, but the solutions he is coming up with are not possible to realize. Your reputation is suffering because of that as well, so it is probably the best idea do fire him.</text>
+  <text id="EVENT_ANSWER_TEXT_36_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_36_-1_0" size="Lg">Additional costs: 200 000 $</text>
+  <text id="EVENT_EFFECT_TEXT_36_-1_1" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_37" size="Lg">HURRICANE</text>
+  <text id="EVENT_TEXT_37" size="Lg">Important notice! Yesterday a hurricane hit a nearby area. One of your buildings [BUILDING] is partly destroyed. Also houses of some of your employees, who live nearby were damaged and right now they are not able to work while taking care of their properties and families. You should probably think of some kind of financial help for them too. You can expect diverse financial consequences because of this situation and some delays.</text>
+  <text id="EVENT_ANSWER_TEXT_37_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_37_-1_0" size="Lg">Costs: [X]$</text>
+  <text id="EVENT_TITLE_38" size="Lg">FIRE IN THE BUILDING</text>
+  <text id="EVENT_TEXT_38" size="Lg">There was a fire in one of the buildings - [BUILDING]. It was caused by the cigarette, apparently someone who was visiting the company was smoking and a fag-end started the fire. It was contained quite quickly, no one was hurt, but the damage will make it impossible to work in the building for the next few days, so this month you should expect additional costs.</text>
+  <text id="EVENT_ANSWER_TEXT_38_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_38_-1_0" size="Lg">Costs: [X]</text>
+  <text id="EVENT_TITLE_39" size="Lg">PANDEMIC AMONG EMPLOYEES</text>
+  <text id="EVENT_TEXT_39" size="Lg">There is an outbreak of stomach flu in the company. Many employees (around 50%) got ill, some of them got strongly dehydrated and even ended up in the hospital. Everyone is to be examined and take necessary medicines. Because of the situation there will be some minor delays.</text>
+  <text id="EVENT_ANSWER_TEXT_39_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_39_-1_0" size="Lg">All your researches will be delayed for 2 weeks.</text>
+  <text id="EVENT_EFFECT_TEXT_39_-1_1" size="Lg">All work in Assembly Building will be delayed for 2 weeks.</text>
+  <text id="EVENT_TITLE_40" size="Lg">BONDING EVENT FOR EMPLOYEES</text>
+  <text id="EVENT_TEXT_40" size="Lg">A bonding event has been organized for all employees. The party took place last Friday and almost everyone was present. This idea turned out to be very good, because it made employees more motivated. Since then everyone is working harder, so you can expect an increase of productivity, discovering new technologies should go faster.</text>
+  <text id="EVENT_ANSWER_TEXT_40_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_40_-1_0" size="Lg">All current projects will speed up by 10%</text>
+  <text id="EVENT_TITLE_41" size="Lg">CENSORIOUS ARTICLE</text>
+  <text id="EVENT_TEXT_41" size="Lg">You might think that your last press conference didn’t go that bad, but one of the journalist has definitely different opinion. He wrote an article in a national magazine which is not very favorable. He says that during the conference you seemed very nervous when answering difficult questions and therefore you should not be trusted. For certain this article will harm reputation of your company.</text>
+  <text id="EVENT_ANSWER_TEXT_41_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_41_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_42" size="Lg">FAVORABLE ARTICLE</text>
+  <text id="EVENT_TEXT_42" size="Lg">Remember last press conference? Did you expect it was so good that one of the journalist would write a very favorable article about your company? He did, congratulations. He wrote, that even though the questions were difficult, you seemed very confident and truthful and that he puts trust in your company. The magazine, where the article was published is known in the whole country, so this will work good on your reputation and image.</text>
+  <text id="EVENT_ANSWER_TEXT_42_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_42_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_43" size="Lg">APPEARANCE IN TALK-SHOW</text>
+  <text id="EVENT_TEXT_43" size="Lg">You have been invited to a popular talk-show. You accepted the proposal and everything went splendid. Your performance was a very successful one, you managed to talk about plans for future programs at your company, your current projects, latest successes and new contracts that you signed. This kind of popularity is very good for the company and the invitation shows that people are interested in space industry.</text>
+  <text id="EVENT_ANSWER_TEXT_43_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_43_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_44" size="Lg">PROBLEMS WITH ROCKET’S TRANSPORT</text>
+  <text id="EVENT_TEXT_44" size="Lg">You have a minor problem with transporting rockets to the launch facility. The machine is broken and some components need to be replaced. While waiting for the parts, you will not be able to use launch facility and any actions planned for that will be postponed. This should take till the end of this month.</text>
+  <text id="EVENT_ANSWER_TEXT_44_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_44_-1_0" size="Lg">Launch facility is unavailable for 1 month.</text>
+  <text id="EVENT_TITLE_45" size="Lg">WATER PIPELINE MALFUNCTION</text>
+  <text id="EVENT_TEXT_45" size="Lg">Something is wrong with the water pipeline on your company’s property. It is being repaired now, but it causes some delays in current works. If the problems with water supply will continue this could seriously damage your plans for the next few weeks, so hopefully it will be resolved soon.</text>
+  <text id="EVENT_ANSWER_TEXT_45_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_45_-1_0" size="Lg">All researches will be delayed for 2 weeks.</text>
+  <text id="EVENT_EFFECT_TEXT_45_-1_1" size="Lg">All work in Assembly Building will be delayed for 2 weeks.</text>
+  <text id="EVENT_TITLE_46" size="Lg">MUSIC STARS IN SPACE</text>
+  <text id="EVENT_TEXT_46" size="Lg">One of the music stars is interested in going in space. She is well known for extravagant performances, but now it was the first time she mentioned singing in space. In fact the group of musicians who want to perform in space is growing quite fast. Some of them are even thinking of making a video clip. Statements like this bring more attention to space tourism so you can expect increase of interest in this area.</text>
+  <text id="EVENT_ANSWER_TEXT_46_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_46_-1_0" size="Lg">50% increase of interest in space tourism for the next [X] months.</text>
+  <text id="EVENT_TITLE_47" size="Lg">ARTICLE ABOUT SPACE TOURISM</text>
+  <text id="EVENT_TEXT_47" size="Lg">In the worldwide magazine there was published an article about space tourism. It is not very favorable, because it says that suborbital space tourism is not much of a space flight. It point to the short duration of this kind of flights and comparably very high price for such a short entertainment. The magazine has a lot of readers, so this might affect interest in space tourism.</text>
+  <text id="EVENT_ANSWER_TEXT_47_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_47_-1_0" size="Lg">50% decrease of interest in space tourism for the next [X] months.</text>
+  <text id="EVENT_TITLE_48" size="Lg">WATER POLLUTION</text>
+  <text id="EVENT_TEXT_48" size="Lg">Environmental activists are protesting againts your involvement in the local ecosystem. According to what they say your company is polluting local waters. You have taken every possible step to minimize ecological danger, so there is actually nothing more you can do about their demands. But information about it got to media and it will hurt your reputation.</text>
+  <text id="EVENT_ANSWER_TEXT_48_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_48_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_49" size="Lg">LOGGING OF TREES</text>
+  <text id="EVENT_TEXT_49" size="Lg">Environmental activists are furious because of the trees’ logging caused by building development at your company. They organized a tree-sitting protest, they were chained to them for the whole day, so you might expect some delays. Fortunately media were not interested in this matter.</text>
+  <text id="EVENT_ANSWER_TEXT_49_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_49_-1_0" size="Lg">All researches will be delayed for 2 weeks.</text>
+  <text id="EVENT_EFFECT_TEXT_49_-1_1" size="Lg">All work in Assembly Building will be delayed for 2 weeks.</text>
+  <text id="EVENT_TITLE_50" size="Lg">INVENTION STOLEN</text>
+  <text id="EVENT_TEXT_50" size="Lg">Last night there was a break-in to your company and some materials were stolen. After analysing the situation it turned out there was some crucial information about new inventions. It can’t be sure who was the perpetrator, but it was probably ordered by one of competitive companies.</text>
+  <text id="EVENT_ANSWER_TEXT_50_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_50_-1_0" size="Lg">Additional costs for providing better security: 20 000 $</text>
+  <text id="EVENT_EFFECT_TEXT_50_-1_1" size="Lg">Your competition might develop quicker.</text>
+  <text id="EVENT_TITLE_51" size="Lg">MALFUNTION OF COMPONENTS</text>
+  <text id="EVENT_TEXT_51" size="Lg">Before the start a malfunction of components was detected. Therefore start is not possible at this moment and it is necessary to replace the element. It will take 1 month and you will have to choose new date for the start.</text>
+  <text id="EVENT_ANSWER_TEXT_51_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_51_-1_0" size="Lg">This month the start won't be possible.</text>
+  <text id="EVENT_TITLE_52" size="Lg">MALFUNCTION OF PHOTOVOLTAIC CELLS</text>
+  <text id="EVENT_TEXT_52" size="Lg">A malfunction of photovoltaic cells was detected on your satellite. Therefore there are problems with generating necessary amounts of energy for systems of this satellite and its start has to be postponed. The repair will take 2 weeks.</text>
+  <text id="EVENT_ANSWER_TEXT_52_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_52_-1_0" size="Lg">This month the start won't be possible.</text>
+  <text id="EVENT_TITLE_53" size="Lg">WEIGHT LIMIT EXCEEDED</text>
+  <text id="EVENT_TEXT_53" size="Lg">Engineers have some problems with the rocket. There has been an error in calculations and weight limit was exceeded. The engineers will have to work longer on this construction to find a solution for reducing the weight. This should take around 1 month.</text>
+  <text id="EVENT_ANSWER_TEXT_53_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_53_-1_0" size="Lg">Construction of the rocket will take 1 more month.</text>
+  <text id="EVENT_TITLE_54" size="Lg">MISTAKE IN FOOD DELIVERY</text>
+  <text id="EVENT_TEXT_54" size="Lg">Your food supplier made a mistake with delivery. You got different fruits than you ordered and even though this has not caused any particular problems, he wants to compensate for this mistake. You got this delivery for free and managed to save some money.</text>
+  <text id="EVENT_ANSWER_TEXT_54_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_54_-1_0" size="Lg">Profit: 3 000 $</text>
+  <text id="EVENT_TITLE_55" size="Lg">OVERESTIMATED COSTS</text>
+  <text id="EVENT_TEXT_55" size="Lg">While planning the construction of [BUILDING] the engineers overestimated the costs. Since building it will be a little cheaper you managed to save some money.</text>
+  <text id="EVENT_ANSWER_TEXT_55_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_55_-1_0" size="Lg">Profit: [X]</text>
+  <text id="EVENT_TITLE_56" size="Lg">DELAY WITH TAXES</text>
+  <text id="EVENT_TEXT_56" size="Lg">Unfortunately because of your employee’s lack of conscientiousness your company has paid the taxes with a small delay. Therefore you need to pay a fine.</text>
+  <text id="EVENT_ANSWER_TEXT_56_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_56_-1_0" size="Lg">Costs: [X] $</text>
+  <text id="EVENT_TITLE_57" size="Lg">WEBSITE OF THE YEAR</text>
+  <text id="EVENT_TEXT_57" size="Lg">Your company’s website has been chosen the best website of the year among companies in space industry. Congratulations! This will surely increase your reputation.</text>
+  <text id="EVENT_ANSWER_TEXT_57_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_57_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_58" size="Lg">ARTICLE ABOUT YOUR STRATEGY</text>
+  <text id="EVENT_TEXT_58" size="Lg">Journalist from one of the scientific magazines wrote an article about your company. She says that the strategy your company is following is very impressive and she hopes you will reach your goals. This is a very good advertisement for your company.</text>
+  <text id="EVENT_ANSWER_TEXT_58_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_58_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_59" size="Lg">MEAN JOURNALIST</text>
+  <text id="EVENT_TEXT_59" size="Lg">After you privately spoken with a journalist from local tabloid he wrote an article about you. He says if such a boorish person with no vision at all is supposed to lead a New Space company, humanity may suffer from space discoveries. This will surely harm your reputation.</text>
+  <text id="EVENT_ANSWER_TEXT_59_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_59_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_60" size="Lg">PROMISING COMPANY</text>
+  <text id="EVENT_TEXT_60" size="Lg">Your company has been mentioned on the list of very promising New Space corporations which was published on an international website about modern technologies. This kind of recognition is very important for your image, so you should be very happy to get on that list.</text>
+  <text id="EVENT_ANSWER_TEXT_60_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_60_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_61" size="Lg">AGGRESSIVE IMAGE</text>
+  <text id="EVENT_TEXT_61" size="Lg">Lately your reputation went down a little bit, because of the image you are getting on the market. Owners of other New Space companies describe you as a very aggressive competitor. </text>
+  <text id="EVENT_ANSWER_TEXT_61_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_61_-1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_62" size="Lg">DELAYS IN BUILDING’S CONSTRUCTION</text>
+  <text id="EVENT_TEXT_62" size="Lg">The time length of [BUILDING] construction seems to have been underestimated. You and your advisor were sure about your predictions but the your contractor has a different opinion. The construction will be prolonged by few weeks.</text>
+  <text id="EVENT_ANSWER_TEXT_62_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_62_-1_0" size="Lg">[BUILDING] will be finished one month later.</text>
+  <text id="EVENT_TITLE_63" size="Lg">TV SHOW ABOUT SPACE</text>
+  <text id="EVENT_TEXT_63" size="Lg">One of the TV channel is airing a sequel about space discoveries. Therefore an increase of interest in space industry can be observed among various investors. You can expect more offers coming for the next few months.</text>
+  <text id="EVENT_ANSWER_TEXT_63_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_63_-1_0" size="Lg">30% more offers from all sources for the next [X] months.</text>
+  <text id="EVENT_TITLE_64" size="Lg">EMPLOYEE'S INSUBORDINATION</text>
+  <text id="EVENT_TEXT_64" size="Lg">One of your prominent employees is exhibiting strange behaviour. He seems to have some psychological problems. He used to work very hard and always obey all instructions, but for a week now, he is late almost every day, takes a lot of breaks and yesterday he got into an argument with his superior. No one knows what is the issue, so probably you should offer your employee some professional help. Now it is up to your decision if you want to suspend him or not.</text>
+  <text id="EVENT_ANSWER_TEXT_64_0" size="Lg">Yes, I want to suspend him.</text>
+  <text id="EVENT_EFFECT_TEXT_64_0_0" size="Lg">[ENGINEER] will not be available for the next 6 months.</text>
+  <text id="EVENT_ANSWER_TEXT_64_1" size="Lg">No, we should give him a chance.</text>
+  <text id="EVENT_TITLE_65" size="Lg">MODERNISATION NEEDED</text>
+  <text id="EVENT_TEXT_65" size="Lg">Lead Administrator of your company suggested that you should modernize most of the buildings your company owns. Although this investment is not cheap (it will cost you [X]$), your company will certainly benefit from it. Thanks to new solutions that are going to be provided, you will be able to spend on buildings' maintenance 5% less money. Would you like to modernize your buildings?</text>
+  <text id="EVENT_ANSWER_TEXT_65_0" size="Lg">Yes</text>
+  <text id="EVENT_EFFECT_TEXT_65_0_0" size="Lg">Costs: [X]$</text>
+  <text id="EVENT_ANSWER_TEXT_65_1" size="Lg">No</text>
+  <text id="EVENT_TITLE_66" size="Lg">NEW SCIENTIST</text>
+  <text id="EVENT_TEXT_66" size="Lg">Globaly appreciated scientist wants to join your team. Most of all, he is interested in [PROGRAM] and he would like to take charge of it by getting Project Manager position. He has skills for the job and rich experience, so he truly is a perfect candidate and you are really lucky that he wants to work for your company. Hiring him will be a little expensive [X] $ monthly, but with him on board you should expect to discover new technologies faster. Would you like to hire him?</text>
+  <text id="EVENT_ANSWER_TEXT_66_0" size="Lg">Yes</text>
+  <text id="EVENT_EFFECT_TEXT_66_0_0" size="Lg">Researching technologies in this program will be 10% faster.</text>
+  <text id="EVENT_EFFECT_TEXT_66_0_1" size="Lg">You have a new Project Manager for [PROGRAM]</text>
+  <text id="EVENT_EFFECT_TEXT_66_0_2" size="Lg">
+  </text>
+  <text id="EVENT_ANSWER_TEXT_66_1" size="Lg">No</text>
+  <text id="EVENT_TITLE_67" size="Lg">COOPERATION WITH WELL KNOWN MAGAZINE</text>
+  <text id="EVENT_TEXT_67" size="Lg">A well known weekly magazine has a special offer for you. They would like to be invited to one of your flights into space and in return they will write an article about your company’s actions. This will cost you 250 000 $ , but you may gain a lot of attention among readers. Would you like to cooperate?</text>
+  <text id="EVENT_ANSWER_TEXT_67_0" size="Lg">Yes</text>
+  <text id="EVENT_EFFECT_TEXT_67_0_0" size="Lg">Costs: 250 000$</text>
+  <text id="EVENT_EFFECT_TEXT_67_0_1" size="Lg">
+  </text>
+  <text id="EVENT_ANSWER_TEXT_67_1" size="Lg">No</text>
+  <text id="EVENT_TITLE_68" size="Lg">POWER BLACKOUT</text>
+  <text id="EVENT_TEXT_68" size="Lg">There was an accident involving electricity lines and it resulted it temporary power blackout. The situation wasn’t very long or serious, but some machines unexpectedly stopped working, which caused more problems and therefore delays. You can avoid situations like this in the future by buying additional electricity generator for 100 000 $. Would you like to do it?</text>
+  <text id="EVENT_ANSWER_TEXT_68_-1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_68_-1_0" size="Lg">Costs caused by blackout: [X]$</text>
+  <text id="EVENT_EFFECT_TEXT_68_-1_1" size="Lg">All projects will be delayed for 2 weeks.</text>
+  <text id="EVENT_EFFECT_TEXT_68_-1_2" size="Lg">
+  </text>
+  <text id="EVENT_ANSWER_TEXT_68_0" size="Lg">Yes, I would like to buy it.</text>
+  <text id="EVENT_EFFECT_TEXT_68_0_0" size="Lg">You bought a generator for 100 000 $ which will protect you from future blackouts.</text>
+  <text id="EVENT_ANSWER_TEXT_68_1" size="Lg">No, I will take the risk.</text>
+  <text id="EVENT_TITLE_69" size="Lg">MOTIVATION TRAINING</text>
+  <text id="EVENT_TEXT_69" size="Lg">Last week motivation training was conducted for part of your employees to see what will be the results. It turned out to be very helpful, they increased their effectiveness and generally seem more happy to work (current projects will go 3% faster for the next 3 months). Would you like to organize training for the rest of your employees? It will cost you [X]$ and you can expect even better results.</text>
+  <text id="EVENT_ANSWER_TEXT_69_0" size="Lg">Yes, organize training.</text>
+  <text id="EVENT_EFFECT_TEXT_69_0_0" size="Lg">Costs: [X]$</text>
+  <text id="EVENT_EFFECT_TEXT_69_0_1" size="Lg">Current projects will go 10% faster.</text>
+  <text id="EVENT_ANSWER_TEXT_69_1" size="Lg">No, thank you.</text>
+  <text id="EVENT_EFFECT_TEXT_69_1_0" size="Lg">Current projects will go 3% faster.</text>
+  <text id="EVENT_TITLE_70" size="Lg">NOISES IN THE FOREST</text>
+  <text id="EVENT_TEXT_70" size="Lg">One of the environmental groups seems to have a problem with your working area. They say that even though the forest is quite far from your company, the noises cause some disturbance for local animals. They contacted media and want you to build a soundproof wall outside your possession to protect the forest. This kind of wall would cost you 50 000 $, but it would be good for your reputation and ecological image. Would you like to buy it now?</text>
+  <text id="EVENT_ANSWER_TEXT_70_0" size="Lg">Yes, I want to build soundproof wall.</text>
+  <text id="EVENT_EFFECT_TEXT_70_0_0" size="Lg">You bought a soundproof wall for 50 000 $</text>
+  <text id="EVENT_EFFECT_TEXT_70_0_1" size="Lg">
+  </text>
+  <text id="EVENT_EFFECT_TEXT_70_0_2" size="Lg">
+  </text>
+  <text id="EVENT_ANSWER_TEXT_70_1" size="Lg">No, I don’t think it is necessary.</text>
+  <text id="EVENT_EFFECT_TEXT_70_1_0" size="Lg">
+  </text>
+  <text id="EVENT_TITLE_71" size="Lg">PM ASKS FOR A RAISE</text>
+  <text id="EVENT_TEXT_71" size="Lg">HR Department informs you that one of your Project Managers got an interesting offer from a competitive company. Therefore he asked for a rise, otherwise he will resign. Would you like to give him a rise or do you want to let him go?</text>
+  <text id="EVENT_ANSWER_TEXT_71_0" size="Lg">Yes, increase his salary.</text>
+  <text id="EVENT_EFFECT_TEXT_71_0_0" size="Lg">[PROJECTMANAGER] will earn 25% more money.</text>
+  <text id="EVENT_ANSWER_TEXT_71_1" size="Lg">No, let him resign.</text>
+  <text id="EVENT_EFFECT_TEXT_71_1_0" size="Lg">[PROJECTMANAGER] has resigned. You need to hire new Project Manager.</text>
+  <text id="COST" size="Lg">Cost</text>
+  <text id="REQUIREMENTS" size="Lg">Requirements</text>
+  <text id="START_RESEARCH?" size="Lg">Start research?</text>
+  <text id="MOUNT" size="Lg">Mount</text>
+  <text id="BUY" size="Lg">Buy</text>
+  <text id="PRICE" size="Lg">Price</text>
+  <text id="ITEMS" size="Lg">Items</text>
+  <text id="TRAVEL_TIME" size="Lg">Travel time</text>
+  <text id="FREE_SLOT_IN_THE_ROCKET" size="Lg">Free slot in the rocket</text>
+	<text id="INFO_STEAM" size="Lg">
+		Welcome in Race To Mars game.
+		Current version does not include all the features, but there is a lot to try. First of all you can start developing your company by constructing buildings of your choice (once you have some, the others will be available as well). It is also possible to hire and fire engineers and Project Managers. After building Satallite Program you can research first technologies at Research+Development facility and then at Assembly Building you will be able to use them for producing components. In futures versions more researches will be available. The components may be used for constructing your first satellite. The satellite can be launched into orbit on a rocket, which you should buy at the Market. We are currently working on the possibility of building a rocket and using your own Launch Facility, so that should appear in one of the next builds. Later it will be possible to create different vehicles and equipment and to start new programs, which will present you with new features.
+		In current version you may also: sign contracts for missions at National Space and Air Office, organize press conferences, educate your Project Managers at University, use the Bank and follow monthly reports.
+		Have fun!
+	</text>
+	<text id="DEVELOPMENT_INFO" size="Lg">The game’s current version is far away from the final graphic quality and complexity of gameplay. Each update will offer new technologies and ways of its development.</text>
+	<text id="COUNTRY_00" size="Lg">Poland</text>
+	<text id="COUNTRY_01" size="Lg">Algeria</text>
+	<text id="COUNTRY_02" size="Lg">Argentina</text>
+	<text id="COUNTRY_03" size="Lg">Australia</text>
+	<text id="COUNTRY_04" size="Lg">Austria</text>
+	<text id="COUNTRY_05" size="Lg">Azerbaijan</text>
+	<text id="COUNTRY_06" size="Lg">Bangladesh</text>
+	<text id="COUNTRY_07" size="Lg">Belgium</text>
+	<text id="COUNTRY_08" size="Lg">Bolivia</text>
+	<text id="COUNTRY_09" size="Lg">Brazil</text>
+	<text id="COUNTRY_10" size="Lg">Bulgaria</text>
+	<text id="COUNTRY_11" size="Lg">China</text>
+	<text id="COUNTRY_12" size="Lg">Croatia</text>
+	<text id="COUNTRY_13" size="Lg">Czech Republic</text>
+	<text id="COUNTRY_14" size="Lg">Denmark</text>
+	<text id="COUNTRY_15" size="Lg">Egypt</text>
+	<text id="COUNTRY_16" size="Lg">Filipiny</text>
+	<text id="COUNTRY_17" size="Lg">Finlandia</text>
+	<text id="COUNTRY_18" size="Lg">France</text>
+	<text id="COUNTRY_19" size="Lg">Greece</text>
+	<text id="COUNTRY_20" size="Lg">Hiszpania</text>
+	<text id="COUNTRY_21" size="Lg">Holandia</text>
+	<text id="COUNTRY_22" size="Lg">India</text>
+	<text id="COUNTRY_23" size="Lg">Indonesia</text>
+	<text id="COUNTRY_24" size="Lg">Iran</text>
+	<text id="COUNTRY_25" size="Lg">Irland</text>
+	<text id="COUNTRY_26" size="Lg">Israel</text>
+	<text id="COUNTRY_27" size="Lg">Japan</text>
+	<text id="COUNTRY_28" size="Lg">Canada</text>
+	<text id="COUNTRY_29" size="Lg">Kazakhstan</text>
+	<text id="COUNTRY_30" size="Lg">Columbia</text>
+	<text id="COUNTRY_31" size="Lg">South Korea</text>
+	<text id="COUNTRY_32" size="Lg">North Korea</text>
+	<text id="COUNTRY_33" size="Lg">Costa Rica</text>
+	<text id="COUNTRY_34" size="Lg">Lithuania</text>
+	<text id="COUNTRY_35" size="Lg">Luxembourg</text>
+	<text id="COUNTRY_36" size="Lg">Malaysia</text>
+	<text id="COUNTRY_37" size="Lg">Morocco</text>
+	<text id="COUNTRY_38" size="Lg">Mexico</text>
+	<text id="COUNTRY_39" size="Lg">Mongolia</text>
+	<text id="COUNTRY_40" size="Lg">Germany</text>
+	<text id="COUNTRY_41" size="Lg">Nigeria</text>
+	<text id="COUNTRY_42" size="Lg">Norway</text>
+	<text id="COUNTRY_43" size="Lg">Pakistan</text>
+	<text id="COUNTRY_44" size="Lg">Peru</text>
+	<text id="COUNTRY_45" size="Lg">Portugal</text>
+	<text id="COUNTRY_46" size="Lg">Russia</text>
+	<text id="COUNTRY_47" size="Lg">Romania</text>
+	<text id="COUNTRY_48" size="Lg">Singapore</text>
+	<text id="COUNTRY_49" size="Lg">Sri Lanka</text>
+	<text id="COUNTRY_50" size="Lg">United States</text>
+	<text id="COUNTRY_51" size="Lg">Switzerland</text>
+	<text id="COUNTRY_52" size="Lg">Sweden</text>
+	<text id="COUNTRY_53" size="Lg">Thailand</text>
+	<text id="COUNTRY_54" size="Lg">Taiwan</text>
+	<text id="COUNTRY_55" size="Lg">Tunisia</text>
+	<text id="COUNTRY_56" size="Lg">Ukraine</text>
+	<text id="COUNTRY_57" size="Lg">Uruguay</text>
+	<text id="COUNTRY_58" size="Lg">Venezuela</text>
+	<text id="COUNTRY_59" size="Lg">Hungary</text>
+	<text id="COUNTRY_60" size="Lg">Vietnam</text>
+	<text id="COUNTRY_61" size="Lg">United Kingdom</text>
+	<text id="COUNTRY_62" size="Lg">Italy</text>
+</Translation>
